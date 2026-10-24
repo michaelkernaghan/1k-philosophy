@@ -1,0 +1,92 @@
+Justice :: Giving each their due; the central concept of political philosophy, variously understood as order (Plato), fairness (Rawls) or entitlement (Nozick).
+Social Contract :: The idea that political authority rests on an agreement among free persons, developed by Hobbes, Locke, Rousseau and Rawls.
+State of Nature :: The imagined condition before government, which Hobbes saw as a war of all against all and Locke as governed by natural law.
+Leviathan :: Hobbes's image of the sovereign state, created by contract so that people may escape the violence of the state of nature.
+General Will :: Rousseau's notion of the will of the people directed at the common good, to which each citizen submits and so remains free.
+Sovereignty :: Supreme authority within a territory; theorists ask who holds it and what limits it.
+Political Obligation :: Whether and why citizens must obey the law of their state.
+Consent of the Governed :: The principle that legitimate government rests on the agreement of those it rules.
+Legitimacy :: The right of a political authority to rule, as distinct from its mere power.
+Authority :: The right to command and to be obeyed, which anarchists such as Wolff deny that any state can have.
+Anarchism :: The view that the state is unnecessary and illegitimate and that society can be organised without coercive government.
+Liberalism :: The political tradition that prizes individual liberty, equality of rights and limited government.
+Classical Liberalism :: The doctrine, from Locke and Smith, of limited government, free markets and individual rights.
+Negative and Positive Liberty :: Berlin's contrast between freedom from interference and freedom as self-mastery or the capacity to act.
+Harm Principle :: Mill's rule that power may be exercised over a person against their will only to prevent harm to others.
+Republicanism :: The tradition that defines freedom as non-domination and stresses civic virtue and self-rule.
+Freedom as Non-Domination :: Pettit's view that liberty is the absence of being subject to another's arbitrary will, even if they do not interfere.
+Conservatism :: The tradition, from Burke, that values inherited institutions and distrusts rapid, abstract reform.
+Communitarianism :: The view of Sandel, MacIntyre and Taylor that the self is formed by communities and that liberalism neglects this.
+Libertarianism :: The view that individual liberty and property rights should be maximally protected and the state minimal.
+Minimal State :: Nozick's thesis that only a state limited to protection against force, theft and fraud can be justified.
+Entitlement Theory :: Nozick's view that a distribution is just if it arose through just acquisition and transfer, whatever its pattern.
+Justice as Fairness :: Rawls's theory that the principles of justice are those that free and equal persons would choose in a fair initial situation.
+Original Position :: Rawls's hypothetical situation in which people choose principles of justice without knowing their own place in society.
+Veil of Ignorance :: The device of the original position that hides one's class, talents and conception of the good so that choice is impartial.
+Difference Principle :: Rawls's principle that inequalities are just only if they benefit the least advantaged.
+Overlapping Consensus :: Rawls's idea of a political conception of justice endorsed by citizens who hold differing comprehensive doctrines.
+Public Reason :: The idea that political decisions should be justified by reasons all reasonable citizens can accept.
+Egalitarianism :: The view that equality should be a central aim of social arrangements.
+Luck Egalitarianism :: The view that inequalities are unjust when they stem from luck and not from people's choices.
+Capabilities Approach :: Sen's and Nussbaum's view that justice concerns what people are actually able to do and be.
+Distributive Justice :: The question of how benefits and burdens of social life should be allocated.
+Desert :: The idea that people deserve rewards or penalties in virtue of what they have done.
+Meritocracy :: A system in which positions and rewards go to those with talent and effort, subject to critique for hidden inequalities.
+Socialism :: The family of views that favours collective or social ownership and control of the means of production.
+Marxism :: The theory of Marx and Engels that history is driven by class conflict and that capitalism will be succeeded by communism.
+Historical Materialism :: Marx's thesis that the economic base shapes the legal, political and ideological superstructure.
+Class Struggle :: Marx's thesis that history is the history of conflict between classes defined by their relation to production.
+Alienation :: Marx's analysis of how workers under capitalism are estranged from their labour, its product, others and themselves.
+Surplus Value :: Marx's term for the unpaid labour appropriated by the capitalist, the source of profit.
+Commodity Fetishism :: Marx's idea that social relations among people appear as relations among things.
+Ideology :: A system of ideas that obscures and legitimises existing social power, a concept central to Marxist critique.
+Hegemony :: Gramsci's term for domination secured through cultural leadership and consent rather than force alone.
+Critical Theory :: The Frankfurt School's project of diagnosing and challenging domination through interdisciplinary social critique.
+Communicative Action :: Habermas's theory that social coordination rests on reaching mutual understanding through reasoned discourse.
+Public Sphere :: Habermas's term for the space where citizens discuss matters of common concern and form public opinion.
+Deliberative Democracy :: The view that democratic legitimacy comes from public reasoning among free and equal citizens.
+Democracy :: Rule by the people; theorists debate its justification, its forms and its limits, from Athens to the present.
+Tyranny of the Majority :: Tocqueville's and Mill's worry that democratic majorities can oppress minorities.
+Separation of Powers :: Montesquieu's principle that dividing legislative, executive and judicial authority guards against tyranny.
+Rule of Law :: The ideal that all are subject to law that is public, general and impartially applied.
+Constitutionalism :: The view that government should be limited by a fundamental law.
+Cosmopolitanism :: The view that all human beings belong to a single moral community and that national borders carry limited moral weight.
+Global Justice :: The study of what justice requires across borders, concerning poverty, trade and migration.
+Nationalism :: The view that the nation is the proper basis of political community, with loyalty and self-determination as key values.
+Multiculturalism :: The view that cultural diversity should be recognised and accommodated by public institutions.
+Recognition :: Hegel's, Taylor's and Honneth's idea that identity depends on being acknowledged by others and that misrecognition is a harm.
+Feminism :: The movement and theory concerned with the equality of women and the critique of gender hierarchy.
+Patriarchy :: A social order in which men dominate, subject to analysis in feminist theory.
+Intersectionality :: Crenshaw's term for how overlapping systems of oppression, such as race and gender, compound each other.
+Gender as Performance :: Butler's thesis that gender is constituted by repeated acts and not a natural fact.
+Critical Race Theory :: The analysis of how law and institutions embed racial hierarchy.
+Colonialism and Postcolonial Theory :: The critique of imperial domination and its legacies, developed by Fanon, Said and Spivak.
+Orientalism :: Said's analysis of how Western representations of the East served the cause of domination.
+Biopower :: Foucault's term for forms of power that manage the life of populations.
+Panopticon :: Bentham's design for a prison with constant surveillance, which Foucault used as a model of modern disciplinary power.
+Power/Knowledge :: Foucault's claim that knowledge and power are intertwined, so that regimes of truth are also regimes of control.
+Social Construction :: The thesis that categories such as gender and race are products of social practice, not natural facts.
+Civil Disobedience :: Open, non-violent breach of law on grounds of conscience, as defended by Thoreau, Gandhi and King.
+Revolution :: A fundamental and rapid overthrow of a political order, whose justification is a perennial subject for political theory.
+Legal Positivism :: The view that the existence of law depends on social facts and not on its moral merit.
+Natural Law Theory of Law :: The view that an unjust law is not truly law, or that law is bound up with morality.
+Hart's Rule of Recognition :: Hart's idea of the social rule that identifies which norms count as valid law in a legal system.
+Law as Integrity :: Dworkin's view that judges should interpret law as a coherent expression of moral principle.
+Property :: The right to use and exclude others from things; Locke grounded it in labour, others in convention or social need.
+Labour Theory of Property :: Locke's view that mixing one's labour with unowned things gives one a right to them.
+Tragedy of the Commons :: Hardin's account of how shared resources are depleted when individuals pursue self-interest.
+Paternalism :: Interfering with a person's liberty for their own good, a standing problem for liberal theory.
+Privacy :: The claim to control access to oneself and information about oneself, challenged by modern technology.
+Freedom of Speech :: The right to express opinions, whose limits are debated, as in Mill's defence of free discussion.
+Toleration :: The practice of putting up with what one dislikes or disapproves of, defended by Locke and Mill.
+Secularism :: The principle of separating religious authority from the state.
+Iron Cage :: Weber's metaphor for the way rationalised bureaucratic life constrains and disenchants modern individuals.
+Disenchantment :: Weber's term for the loss of magic and ultimate meaning in modernity as rational calculation spreads.
+Anomie :: Durkheim's term for a condition in which social norms break down and individuals lose moral guidance.
+Collective Representations :: Durkheim's idea that shared beliefs and symbols are social facts that shape individual thought.
+Political Realism :: The tradition, from Thucydides and Machiavelli, that stresses power and interest in the conduct of states.
+Virtù and Fortuna :: Machiavelli's contrast between the skill of the prince and the force of chance in political success.
+End of History :: Fukuyama's thesis, drawing on Hegel and Kojève, that liberal democracy represents the final form of government.
+Totalitarianism :: Arendt's term for a novel form of rule that uses terror and ideology to dominate every part of life.
+Banality of Evil :: Arendt's phrase for wrongdoing committed by ordinary people who do not think about what they are doing.
+Vita Activa :: Arendt's division of the active life into labour, work and action, with action as the highest.

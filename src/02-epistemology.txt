@@ -1,0 +1,93 @@
+Knowledge :: Traditionally justified true belief; the field asks what knowing requires and how it differs from mere opinion or luck.
+Justified True Belief :: The classical analysis of knowledge from Plato's Theaetetus, attacked by Gettier as insufficient.
+Gettier Problem :: Edmund Gettier's 1963 counterexamples showing that justified true belief can arise by luck without being knowledge.
+Truth :: The property of statements or beliefs that say how things are; correspondence, coherence and pragmatist accounts compete.
+Correspondence Theory of Truth :: Truth consists in agreement with the facts; a belief is true when the world is as it says.
+Coherence Theory of Truth :: Truth consists in coherence within a comprehensive system of beliefs, favoured by idealists such as Bradley.
+Pragmatic Theory of Truth :: Truth is what works or is warranted in the long run of inquiry, as in Peirce, James and Dewey.
+Deflationism about Truth :: The view that calling something true adds nothing beyond asserting it, so truth is not a substantive property.
+Belief :: The attitude of taking something to be the case; epistemology asks when it is rational and whether it is voluntary.
+Justification :: The standing a belief has when it is properly supported; internalists tie it to what the believer can access, externalists to reliable connection.
+Foundationalism :: The view that knowledge rests on basic beliefs that need no further support, with all other justified belief built upon them.
+Coherentism :: The view that beliefs are justified by fitting together in a mutually supporting web, with no privileged foundation.
+Infinitism :: The view that justification rests on an endless chain of reasons, so that no belief is basic.
+Regress Problem :: The worry that every justification needs a further justification, leading to infinite regress, circularity or arbitrary stopping.
+Internalism and Externalism :: The dispute over whether justification depends only on factors accessible to the believer or can depend on facts outside awareness.
+Reliabilism :: The view that a belief is justified or known if produced by a process that reliably yields true beliefs.
+Virtue Epistemology :: The view that knowledge is belief that is true because of the believer's intellectual virtues or competences, as developed by Sosa and Zagzebski.
+Skepticism :: The doubt that we have knowledge or justified belief in some domain, a challenge answered rather than ignored by most epistemology.
+Pyrrhonian Skepticism :: The ancient practice of suspending judgment in the face of equally balanced arguments in order to reach tranquillity.
+Academic Skepticism :: The Hellenistic Academy's view that nothing can be known with certainty, though some beliefs are more probable than others.
+Cartesian Doubt :: Descartes' method of withholding assent from whatever can be doubted to find an indubitable foundation, ending in the cogito.
+Cogito :: Descartes' "I think, therefore I am," the claim that the very act of doubting guarantees the thinker's existence.
+Evil Demon Argument :: Descartes' hypothesis of a deceiver who makes all experience misleading, used to test how much can be known.
+Brain in a Vat :: Putnam's modern version of the demon scenario, in which a disembodied brain is fed simulated experience.
+Closure Principle :: If one knows p and knows that p entails q, one knows q; skeptical arguments exploit it and some answers deny it.
+Contextualism :: The view that the standards for "knows" shift with the context of the speaker, so the same claim may be true in one setting and false in another.
+Fallibilism :: The view that one can know something even though one's evidence does not rule out error.
+Certainty :: A state of complete assurance, which Descartes sought and many later philosophers held to be unattainable for empirical beliefs.
+A Priori and A Posteriori :: Knowledge independent of experience versus knowledge that rests on it, a distinction made central by Kant.
+Analytic and Synthetic :: Kant's distinction between judgments true by meaning alone and judgments that add information, challenged by Quine.
+Synthetic A Priori :: Kant's category of judgments that extend knowledge yet are known independently of experience, such as the claims of mathematics and geometry.
+Rationalism :: The view that reason, not sense experience, is the chief source of knowledge, held by Descartes, Spinoza and Leibniz.
+Empiricism :: The view that all knowledge derives from experience, held by Locke, Berkeley and Hume.
+Innate Ideas :: Concepts or knowledge present in the mind from birth, affirmed by rationalists and denied by Locke.
+Tabula Rasa :: Locke's image of the mind as a blank slate on which experience writes.
+Sense Data :: The immediate objects of perception, supposed by some philosophers to be what we are directly aware of, rather than physical things.
+Perception :: How the mind comes to be aware of the world through the senses, with direct and indirect theories contesting what is perceived.
+Direct Realism :: The view that we perceive external objects directly, with nothing mental standing between us and them.
+Representative Realism :: The view that we perceive the world through mental representations that stand in for external objects, as in Locke.
+Phenomenalism :: The view that physical objects are constructions out of actual and possible sense experiences, advanced by Mill and Ayer.
+Problem of Induction :: Hume's challenge that no non-circular argument justifies inferring the unobserved from the observed.
+Induction :: Reasoning from observed cases to general conclusions, the engine of empirical science and the target of Hume's doubt.
+Abduction :: Inference to the best explanation, introduced by Peirce as reasoning from effects to the hypothesis that would best account for them.
+Bayesian Epistemology :: The view that rational belief comes in degrees obeying the probability calculus and is updated by conditionalisation on evidence.
+Evidentialism :: The view that one should believe a proposition only to the degree one's evidence supports it, as Clifford and Conee and Feldman maintain.
+Pragmatic Encroachment :: The thesis that practical stakes affect whether a belief counts as knowledge.
+Testimony :: Knowledge gained by being told; the question is whether trust in others is basic or must be justified by independent checks.
+Memory :: The retention of past information; epistemologists ask how it justifies belief and what it means to remember rather than reconstruct.
+Epistemic Peer Disagreement :: The problem of what to believe when an equally informed and capable thinker disagrees with you.
+Social Epistemology :: The study of knowledge as a social phenomenon, including testimony, expertise, institutions and the spread of belief.
+Epistemic Injustice :: Miranda Fricker's term for wrongs done to people as knowers, through testimonial or hermeneutical exclusion.
+Standpoint Epistemology :: The view that social position shapes what one can know, and that marginalised standpoints can yield privileged insight into power.
+Feminist Epistemology :: A family of views that examine how gender shapes the production and evaluation of knowledge.
+Naturalized Epistemology :: Quine's proposal to treat knowledge as a subject for empirical science, replacing normative theory with psychology.
+Epistemic Luck :: The way knowledge can be undermined when a belief's truth is due to chance rather than to the believer's competence.
+Epistemic Norms :: The standards, such as truth, evidence and coherence, that govern what one ought to believe.
+Epistemic Virtue :: Traits like open-mindedness, intellectual courage and carefulness that make a person a good inquirer.
+Doxastic Voluntarism :: The question of whether we can choose what to believe, which bears on whether belief can be obligatory.
+Pascal's Wager :: Pascal's argument that belief in God is the rational bet given infinite possible reward, which raises the issue of believing on practical grounds.
+The Will to Believe :: James's defence of holding a belief without sufficient evidence in genuine, live and momentous options.
+Noumenon and Phenomenon :: Kant's contrast between things as they appear and things as they are in themselves, the latter being unknowable.
+Thing-in-Itself :: Kant's term for reality as it is independent of our forms of perception, which we can think but never know.
+Transcendental Idealism :: Kant's doctrine that space, time and the categories are contributions of the mind, so we know only appearances.
+Transcendental Argument :: An argument that identifies necessary conditions of experience or thought, used by Kant and later against skepticism.
+The Given :: The supposed immediate, non-conceptual element of experience that grounds knowledge, rejected by Sellars as a myth.
+Myth of the Given :: Sellars's attack on the idea that experience provides non-inferential knowledge independent of any conceptual framework.
+Two Dogmas of Empiricism :: Quine's critique of the analytic-synthetic distinction and of reductionism, supporting a holistic view of confirmation.
+Confirmation Holism :: The Duhem-Quine thesis that hypotheses face the tribunal of experience only together with auxiliary assumptions.
+Underdetermination :: The thesis that evidence can fit more than one theory, so data alone cannot decide which is true.
+Hinge Epistemology :: Wittgenstein's idea in On Certainty that some propositions are exempt from doubt because they form the framework of inquiry.
+Moorean Response :: G. E. Moore's reply to skepticism that he knows he has hands, so that skeptical conclusions are less certain than ordinary knowledge.
+Knowledge How and Knowledge That :: Ryle's distinction between practical skill and propositional knowledge, with the dispute over whether the former reduces to the latter.
+Self-Knowledge :: Knowledge of one's own mental states, widely thought to be special in being direct and non-observational.
+Privileged Access :: The view that one has an authoritative, immediate access to one's own mental states that others lack.
+Introspection :: Looking inward at one's own mental states, whose reliability has been challenged by psychology.
+Intuition :: A seeming that something is true without explicit inference, treated as evidence in philosophical method.
+Thought Experiment :: A scenario devised to test a theory by what we would judge about it, as in Gettier cases and trolley problems.
+Experimental Philosophy :: The use of surveys and empirical methods to study the intuitions behind philosophical positions.
+Conceptual Analysis :: The attempt to clarify a concept by stating necessary and sufficient conditions for its application.
+Reflective Equilibrium :: Rawls's method of adjusting principles and particular judgments until they cohere.
+Verificationism :: The view of the logical positivists that a statement is meaningful only if it can be verified empirically or is true by definition.
+Falsificationism :: Popper's criterion that scientific claims must be capable of being refuted by observation.
+Epistemic Relativism :: The view that what counts as knowledge or justified belief varies with a culture, framework or community.
+Paradigm Shift :: Kuhn's term for a revolutionary change in the basic framework of a science, raising questions of incommensurability and progress.
+Knowledge First :: Williamson's thesis that knowledge is a basic, unanalysable mental state, not a compound of belief plus other factors.
+Safety and Sensitivity :: Modal conditions on knowledge: that one would not easily have believed falsely, or would not have believed had p been false.
+Defeaters :: Further evidence that undermines the justification a belief previously had.
+Basic Beliefs :: Beliefs that are justified without being inferred from other beliefs, like perceptual or memory beliefs, in foundationalist theory.
+Reformed Epistemology :: Plantinga's view that belief in God can be properly basic and justified without arguments.
+Wisdom :: Practical and theoretical excellence in understanding and judgment, treated by many traditions as the aim of inquiry beyond knowledge.
+Understanding :: A grasp of how things hang together, widely held to be more than mere knowledge of facts.
+Hermeneutics :: The theory of interpretation, developed by Schleiermacher, Dilthey and Gadamer, treating understanding as always situated and historical.
+Nous :: The Greek term for intellect or intuitive reason, which Plato and Aristotle took to grasp first principles directly and which Plotinus placed second in the hierarchy of being.

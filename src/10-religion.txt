@@ -1,0 +1,53 @@
+God :: The supreme being of theism, conceived as all-powerful, all-knowing and perfectly good, whose existence and nature are the core questions of philosophical theology.
+Theism :: The belief in a personal God who created and sustains the world.
+Atheism :: The position that there is no God, or the lack of belief in one.
+Agnosticism :: The view that the existence of God is unknown or unknowable, a term coined by T. H. Huxley.
+Pantheism :: The view that God and the universe are identical, as in Spinoza.
+Panentheism :: The view that the world is in God, though God is also more than the world.
+Deism :: The view that God created the world but does not intervene in it, popular in the Enlightenment.
+Ontological Argument :: Anselm's argument that God, being that than which nothing greater can be conceived, must exist in reality as well as in thought.
+Cosmological Argument :: The argument from the existence of the world, or its contingency or beginning, to a first cause or necessary being.
+Kalam Argument :: The argument that the universe began to exist and so must have a cause, developed by medieval Islamic thinkers.
+Teleological Argument :: The argument from the order or design of the world to an intelligent designer, as in Paley's watch.
+Moral Argument :: The argument that objective morality, or the possibility of moral life, requires God.
+Five Ways :: Aquinas's five arguments for God's existence from motion, causation, contingency, degrees of perfection and design.
+Problem of Evil :: The challenge that the existence of evil and suffering is incompatible with an all-powerful, all-good God.
+Theodicy :: An attempt to justify God's goodness in the face of evil, as in Leibniz's claim that this is the best of all possible worlds.
+Free Will Defence :: The reply that God allowed evil in order to grant free will, which is a great good, as developed by Augustine and Plantinga.
+Natural and Moral Evil :: The distinction between suffering caused by nature and suffering caused by human wrongdoing.
+Divine Attributes :: Properties traditionally ascribed to God, including omnipotence, omniscience and omnibenevolence.
+Omnipotence :: The attribute of unlimited power, and the puzzles about whether God can do the logically impossible.
+Omniscience :: Complete knowledge, which raises questions about how it fits with human freedom.
+Divine Foreknowledge and Free Will :: The puzzle of whether God's knowledge of the future leaves us free, which Boethius and others addressed.
+Divine Simplicity :: The doctrine that God has no parts and is identical with his attributes.
+Eternity :: God's relation to time, either everlasting duration or timeless existence outside time.
+Divine Hiddenness :: Schellenberg's argument that a loving God would make his existence evident, so that reasonable non-belief counts against God.
+Faith and Reason :: The relation between religious belief and rational inquiry, held by turns to be harmonious or opposed.
+Fideism :: The view that faith does not depend on reason and may be opposed to it, as in Kierkegaard.
+Leap of Faith :: Kierkegaard's idea that religious commitment requires a passionate leap beyond what reason can justify.
+Teleological Suspension of the Ethical :: Kierkegaard's reading of Abraham's willingness to sacrifice Isaac, in which faith overrides ethical duty.
+Religious Experience :: Direct encounters with the divine, studied by James as evidence for religion.
+Mysticism :: Experience of union with ultimate reality, found across traditions and raising questions of ineffability.
+Miracles :: Events that violate natural law, which Hume argued can never be believed on the basis of testimony.
+Religious Pluralism :: The view of Hick that the great religions are different responses to one ultimate reality.
+Exclusivism and Inclusivism :: Views on whether only one religion is true or whether others share in truth to some degree.
+Afterlife :: The continued existence of persons after death, a hope in many religions and a puzzle for personal identity.
+Immortality of the Soul :: Plato's thesis that the soul is imperishable and survives the death of the body.
+Resurrection :: The Christian belief that the dead will be raised bodily, which raises puzzles of identity.
+Religious Language :: The problem of how words can describe a transcendent God, answered by analogy, symbol or via negativa.
+Negative Theology :: The approach of describing God only by what God is not, to avoid limiting the divine.
+Via Negativa :: The path of approaching God by negation, a method of Pseudo-Dionysius and Maimonides.
+Secularization :: The decline of the social and cultural authority of religion in modern societies.
+Death of God :: Nietzsche's proclamation that belief in God has become untenable, and that the foundations of Western morality are shaken.
+Projection Theory of Religion :: Feuerbach's view that God is a projection of human qualities onto an imagined being.
+Opium of the People :: Marx's description of religion as a consoling illusion that masks social suffering.
+Reformed Epistemology and Religion :: Plantinga's defence of belief in God as rational without argument.
+Apophatic Mysticism :: The tradition of unknowing in which the divine is approached by silence and negation.
+Predestination :: The doctrine that God has determined in advance who will be saved, central to Augustine and Calvin.
+Grace :: In Christian thought, the unmerited gift of divine favour, a central matter in debates about salvation and works.
+Original Sin :: The Christian doctrine that humanity inherits a sinful condition from Adam's fall.
+Natural Theology :: The attempt to establish truths about God by reason alone, without appeal to revelation.
+Revelation :: Disclosure of divine truth to humanity, in contrast with knowledge by reason alone.
+Religious Tolerance :: The principle that different faiths may coexist peacefully, defended by Locke, Voltaire and Mendelssohn.
+Philosophy of Religion :: The study of the concepts and arguments of religious belief, covering God, evil, faith and the afterlife.
+Scholasticism :: The medieval method and tradition of Aquinas, Anselm and Scotus that used logical analysis and disputation to reconcile Christian doctrine with Aristotelian philosophy.

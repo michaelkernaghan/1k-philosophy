@@ -1,0 +1,70 @@
+Existentialism :: The movement, from Kierkegaard through Sartre, that begins from individual existence, freedom and choice in a world without given meaning.
+Authenticity :: Living in accord with one's own choices and being, in contrast to conforming to the crowd, a theme in Heidegger and Sartre.
+Bad Faith :: Sartre's term for self-deception in which one denies one's freedom by pretending to be a fixed thing.
+Absurd :: Camus's term for the clash between our demand for meaning and the silence of the universe.
+Revolt :: Camus's response to the absurd: to live in defiance, without hope or despair.
+Myth of Sisyphus :: Camus's essay that treats Sisyphus condemned to roll a rock as the image of absurd life, which one must imagine happy.
+Anguish :: In Kierkegaard and Sartre, the dizzying awareness of one's freedom and responsibility.
+Angst :: Heidegger's term for the basic mood in which the nothingness of existence is disclosed.
+Being-for-Itself :: Sartre's term for consciousness, which is free and lacks fixed nature, as opposed to being-in-itself.
+Being-in-Itself :: Sartre's term for the solid, self-identical being of things, which simply is.
+Condemned to Be Free :: Sartre's thesis that human beings cannot escape freedom and must choose even when they refuse to.
+The Look :: Sartre's analysis of how being seen by another turns one into an object and reveals shame.
+Facticity :: The given circumstances of one's existence, such as body, past and situation, which one cannot choose.
+Transcendence :: The human capacity to go beyond what is given by projecting oneself toward possibilities.
+Dasein :: Heidegger's term for the human mode of being, the being for whom being is an issue.
+Being-in-the-World :: Heidegger's thesis that we are always already engaged with a world of tools and others, not detached subjects.
+Being-toward-Death :: Heidegger's idea that confronting one's own mortality is the key to authentic existence.
+Thrownness :: Heidegger's term for the fact that we find ourselves already in a world not of our choosing.
+Ready-to-Hand :: Heidegger's term for equipment as used in practice, as opposed to present-at-hand objects observed theoretically.
+The They :: Heidegger's das Man, the anonymous public norms that govern everyday life and dissolve individuality.
+Ontological Difference :: Heidegger's distinction between beings and the Being by which they are, which philosophy has forgotten.
+Care :: Heidegger's name for the basic structure of Dasein as concerned about its own existence.
+Phenomenology :: Husserl's study of the structures of experience as they appear to consciousness.
+Epoché :: Husserl's bracketing of assumptions about the existence of the world in order to describe experience as it is given.
+Intentionality in Phenomenology :: Husserl's thesis that all consciousness is consciousness of something.
+Lifeworld :: Husserl's term for the pre-theoretical world of lived experience that underlies scientific abstraction.
+Embodiment :: Merleau-Ponty's view that the lived body is the subject of perception and not an object among others.
+Lived Body :: The body as experienced from within, in contrast with the body as a physical object.
+Intersubjectivity :: The shared structure of experience among subjects, important in Husserl and Schutz.
+Alterity :: Otherness; Levinas held that the encounter with the Other, not the self, grounds ethics.
+Face of the Other :: Levinas's image of the other person's face, which commands responsibility before any theory.
+Ethics as First Philosophy :: Levinas's thesis that responsibility for the Other precedes ontology.
+Leap and Stages of Existence :: Kierkegaard's account of aesthetic, ethical and religious ways of life, with transitions through leaps.
+Subjectivity is Truth :: Kierkegaard's claim that in matters of existence, the manner of holding a belief matters more than its content.
+Eternal Return :: Nietzsche's thought experiment of living one's life again infinitely, as a test of affirming life.
+Amor Fati :: Nietzsche's love of fate, the willingness to affirm everything that happens, even suffering.
+Übermensch :: Nietzsche's overman, who creates new values after the death of God.
+Perspectivism :: Nietzsche's view that all knowledge is from a perspective and that no view from nowhere exists.
+Nihilism :: The loss of belief in meaning or value, which Nietzsche saw as the crisis of modernity.
+Duration :: Bergson's term for time as lived, a continuous flow that spatialised clock time distorts.
+Élan Vital :: Bergson's vital impetus, a creative force in evolution.
+Spirit :: Hegel's Geist, the self-developing reality that comes to know itself through history.
+Phenomenology of Spirit :: Hegel's 1807 account of consciousness developing through stages to absolute knowing.
+Master-Slave Dialectic :: Hegel's analysis of the struggle for recognition in which the dependent servant achieves self-consciousness through work.
+Aufhebung :: Hegel's term for sublation: the cancelling, preserving and lifting up of a stage in a higher unity.
+Cunning of Reason :: Hegel's idea that history advances reason's ends through the passions and self-interested actions of individuals.
+Will :: Schopenhauer's blind, striving reality underlying appearance, the source of suffering.
+Pessimism :: Schopenhauer's view that existence is dominated by suffering and that the best response is denial of the will.
+Critical Philosophy :: Kant's project of examining the limits and conditions of reason before applying it.
+Copernican Revolution in Philosophy :: Kant's turn from asking how the mind conforms to objects to asking how objects conform to the mind.
+Categories of Understanding :: Kant's twelve pure concepts, such as causality and substance, by which the mind structures experience.
+Antinomies :: Kant's pairs of contradictory conclusions reason falls into when it applies its categories beyond experience.
+Critique of Pure Reason :: Kant's 1781 work examining what reason can know apart from experience and where it oversteps its limits.
+Enlightenment :: Kant's "emergence from self-incurred immaturity" through daring to use one's own reason.
+German Idealism :: The movement of Fichte, Schelling and Hegel that developed Kant's philosophy into systems of the self-determining mind.
+Romanticism :: The movement valuing feeling, nature and creative individuality against Enlightenment rationalism.
+Pragmatism :: The American school of Peirce, James and Dewey that tests ideas by their practical consequences.
+Pragmatic Maxim :: Peirce's rule that the meaning of a concept lies in its conceivable practical effects.
+Neopragmatism :: Rorty's and Brandom's revival of pragmatism that rejects the idea of the mind as a mirror of nature.
+Psychoanalysis :: Freud's theory of the unconscious, which challenged the Cartesian transparency of mind.
+Unconscious :: The mental processes beyond awareness that shape thought and behaviour, according to Freud.
+Dialectic of Enlightenment :: Adorno and Horkheimer's argument that Enlightenment reason reverts into domination.
+One-Dimensional Man :: Marcuse's thesis that advanced industrial society suppresses critical thought.
+Society of the Spectacle :: Debord's thesis that modern life is mediated by images and commodities.
+Rhizome :: Deleuze and Guattari's image of non-hierarchical, interconnected thought contrasted with the tree.
+Archaeology of Knowledge :: Foucault's method of uncovering the rules governing what can be said in an historical period.
+Postmodernism :: The skepticism toward grand narratives and universal truths, associated with Lyotard.
+Incredulity toward Metanarratives :: Lyotard's definition of the postmodern condition as distrust of grand stories, such as progress or emancipation, that claim to legitimise all knowledge.
+Poststructuralism :: The movement after structuralism, including Derrida, Foucault and Deleuze, that stresses instability of meaning and structure.
+Speculative Realism :: A recent movement that rejects the primacy of human access to the world over reality independent of thought.

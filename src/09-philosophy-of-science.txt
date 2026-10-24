@@ -1,0 +1,68 @@
+Scientific Method :: The set of practices by which science forms and tests theories; philosophers doubt whether any single method exists.
+Demarcation Problem :: The question of what separates science from pseudoscience and metaphysics.
+Falsifiability :: Popper's criterion that a theory is scientific only if observation could in principle refute it.
+Conjectures and Refutations :: Popper's picture of science as bold hypotheses tested by attempts to disprove them.
+Hypothetico-Deductive Method :: The method of deriving testable predictions from a hypothesis and checking them.
+Confirmation :: The relation by which evidence supports a hypothesis, analysed in logical, probabilistic and holistic terms.
+Raven Paradox :: Hempel's puzzle that a white shoe seems to confirm "all ravens are black".
+Grue Paradox :: Goodman's new riddle of induction, showing that evidence fits unnatural predicates as well as natural ones.
+Inference to the Best Explanation :: The principle that we should accept the hypothesis that best explains the evidence.
+Scientific Explanation :: The question of what it is to explain a phenomenon, whether by laws, causes or unification.
+Covering Law Model :: Hempel and Oppenheim's view that explanation is the deduction of a phenomenon from laws and conditions.
+Causal Explanation :: The view that to explain an event is to cite its causes, which many take to be the heart of explanation.
+Scientific Realism :: The view that mature scientific theories are approximately true and that their unobservable entities exist.
+Instrumentalism :: The view that scientific theories are tools for prediction and not literal descriptions of reality.
+Constructive Empiricism :: Van Fraassen's view that science aims at empirical adequacy, not truth about unobservables.
+No-Miracles Argument :: Putnam's argument that realism is the only view that does not make the success of science a miracle.
+Pessimistic Meta-Induction :: The argument that since past successful theories turned out false, current ones probably will too.
+Underdetermination of Theory :: The thesis that evidence cannot single out one theory among empirically equivalent rivals.
+Observable and Unobservable :: The distinction between what can be directly detected and what cannot, central to realism debates.
+Theory-Ladenness of Observation :: The thesis that observation is shaped by prior theory, which weakens any neutral foundation.
+Paradigm :: Kuhn's term for the framework of assumptions, methods and exemplars that guides a scientific community.
+Normal Science :: Kuhn's term for puzzle-solving work within an accepted paradigm.
+Scientific Revolution :: Kuhn's account of episodes in which an old paradigm is replaced by an incompatible one.
+Incommensurability :: Kuhn's and Feyerabend's thesis that rival paradigms lack a neutral standard of comparison.
+Research Programmes :: Lakatos's view of science as competing series of theories sharing a hard core and protective belt.
+Epistemological Anarchism :: Feyerabend's claim that no fixed method governs scientific progress, so "anything goes".
+Sociology of Scientific Knowledge :: The approach that explains scientific beliefs by social factors, as in the Strong Programme.
+Scientific Progress :: The question of whether and how science advances, by truth, problem-solving or empirical success.
+Verisimilitude :: Popper's notion of closeness to the truth, an attempt to say how theories can be better without being true.
+Laws of Nature in Science :: The role of general regularities in explanation and prediction, and the question of what makes them laws.
+Ceteris Paribus Laws :: Laws that hold only when other things are equal, common in the special sciences.
+Reductionism in Science :: The view that higher-level theories can be explained by more fundamental ones.
+Unity of Science :: The positivist ideal of a single science with all the special sciences reduced to physics.
+Disunity of Science :: The view that the sciences are a patchwork of methods and theories without a deep unity.
+Models :: Idealised representations used in science, whose relation to reality raises questions about truth and understanding.
+Idealization :: The deliberate simplification of a model, such as frictionless planes, that science uses to gain understanding.
+Thought Experiments in Science :: Imagined scenarios, as in Galileo and Einstein, used to reason about nature without experiment.
+Statistical Inference :: Methods for drawing conclusions from data, with frequentist and Bayesian schools in dispute.
+Philosophy of Physics :: The study of the conceptual foundations of physical theories, including space, time and quantum mechanics.
+Measurement Problem :: The puzzle in quantum mechanics of why a system in superposition yields a definite result on measurement.
+Interpretations of Quantum Mechanics :: Rival accounts of what quantum theory says about reality, including Copenhagen, many-worlds and pilot-wave.
+Many-Worlds Interpretation :: Everett's view that every quantum outcome occurs in a branching universe.
+Copenhagen Interpretation :: Bohr and Heisenberg's view that quantum theory describes the results of measurement and not an underlying reality.
+Wave-Particle Duality :: The finding that quantum entities show both wave and particle behaviour depending on how they are observed.
+Non-Locality :: The feature of quantum entanglement in which distant systems show correlations that no local account can explain.
+Philosophy of Biology :: The study of conceptual issues in evolution, genetics and ecology.
+Natural Selection :: Darwin's mechanism of evolutionary change through differential survival and reproduction.
+Adaptationism :: The view that traits are mainly to be explained as adaptations shaped by selection.
+Species Problem :: The difficulty of defining what a species is and whether species are natural kinds or individuals.
+Function :: The idea that parts of organisms have functions, analysed by selected effects or by causal role.
+Levels of Selection :: The debate over whether selection acts on genes, organisms, groups or all of these.
+Reductionism in Biology :: The view that biological phenomena can be explained by molecular and chemical processes.
+Vitalism :: The discredited view that living things contain a non-physical vital force.
+Philosophy of Psychology :: The study of the concepts and methods of the sciences of mind and behaviour.
+Philosophy of Social Science :: The study of whether the social sciences differ from the natural sciences in their methods and aims.
+Methodological Individualism :: The thesis that social phenomena should be explained by the actions of individuals.
+Holism in Social Science :: The view that social wholes have properties not reducible to individuals.
+Verstehen :: The interpretive understanding of human action from within, which Dilthey and Weber contrasted with natural explanation.
+Positivism :: The view that genuine knowledge derives from observation and logic, associated with Comte and the Vienna Circle.
+Values in Science :: The question of whether social and ethical values legitimately influence scientific reasoning.
+Ockham's Razor :: The principle that one should not multiply entities beyond necessity, used as a guide to theory choice.
+Simplicity :: A virtue of theories whose epistemic standing is debated: whether simpler theories are likelier to be true.
+Anthropic Principle :: The idea that observations of the universe must be compatible with the existence of observers.
+Fine-Tuning :: The observation that physical constants appear tuned for life, which is used in arguments for design or for multiple universes.
+Multiverse :: The hypothesis that our universe is one of many, proposed to explain fine-tuning.
+Arrow of Time :: The asymmetry between past and future, usually traced to the increase of entropy.
+Entropy :: A measure of disorder whose tendency to increase underlies the direction of time.
+Laplace's Demon :: The imagined intellect that could predict the future from complete knowledge of the present, an icon of determinism.

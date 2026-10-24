@@ -1,0 +1,98 @@
+Dharma :: In Indian thought, the order of the cosmos and the duty and right conduct that sustains it, with specific meanings in Hindu, Buddhist and Jain traditions.
+Karma :: The doctrine that intentional actions have moral consequences that shape one's future, including later rebirths.
+Samsara :: The cycle of birth, death and rebirth that Indian traditions seek to escape.
+Moksha :: Liberation from the cycle of rebirth, the supreme goal in many Indian traditions.
+Atman :: The self or soul, which the Upanishads identify with the ultimate reality.
+Brahman :: The ultimate, unchanging reality underlying the world in Vedic and Vedantic thought.
+Maya :: In Advaita Vedanta, the power by which the one reality appears as a world of multiplicity.
+Advaita Vedanta :: Shankara's non-dualist school holding that Atman and Brahman are one and that the world of difference is appearance.
+Vishishtadvaita :: Ramanuja's qualified non-dualism, in which souls and world are real but dependent parts of Brahman.
+Dvaita Vedanta :: Madhva's dualism, which holds that God and individual souls are eternally distinct.
+Upanishads :: The philosophical texts of the Vedic tradition that explore the self, Brahman and liberation.
+Rta :: The Vedic idea of cosmic order that governs nature and ritual and anticipates dharma.
+Samkhya :: The dualist school that explains the world through two ultimate principles, spirit and nature.
+Purusha and Prakriti :: Samkhya's dual principles of conscious spirit and unconscious nature, whose entanglement causes suffering.
+Yoga Philosophy :: Patanjali's system of disciplined practice leading to the cessation of mental fluctuation and the isolation of the self.
+Nyaya :: The Indian school of logic and epistemology that analyses the means of valid knowledge and the structure of debate.
+Pramana :: The accepted means of valid knowledge in Indian thought, such as perception, inference and testimony.
+Vaisheshika :: The atomist school that classifies reality into categories such as substance, quality and action.
+Mimamsa :: The school devoted to interpreting Vedic ritual, holding the Vedas to be eternal and authorless.
+Anekantavada :: The Jain doctrine of many-sidedness, that reality is too complex to be captured by any single viewpoint.
+Syadvada :: The Jain doctrine that every statement is true only in some respect, expressed with a qualifying "in some way".
+Ahimsa :: Non-violence toward all living beings, a central virtue in Jainism, Buddhism and Hinduism, later used by Gandhi.
+Four Noble Truths :: The Buddha's teaching that life involves suffering, which has a cause, can cease, and has a path to its end.
+Noble Eightfold Path :: The Buddhist path of right view, intention, speech, action, livelihood, effort, mindfulness and concentration.
+Dependent Origination :: The Buddhist teaching that all phenomena arise in dependence on conditions and have no independent existence.
+Dukkha :: The Buddhist term for suffering or unsatisfactoriness, the characteristic of conditioned existence.
+Impermanence :: The Buddhist doctrine that all conditioned things are transient and in constant change.
+Nirvana :: The Buddhist goal of the extinction of craving and suffering, and release from rebirth.
+Middle Way :: The Buddha's path between self-indulgence and extreme asceticism, and between eternalism and annihilationism.
+Emptiness :: Nagarjuna's doctrine that all things lack inherent nature and exist only in dependence on other things.
+Madhyamaka :: Nagarjuna's school that develops the doctrine of emptiness through a critique of all fixed views.
+Two Truths :: The Buddhist distinction between conventional truth and ultimate truth, as interpreted by Madhyamaka.
+Yogacara :: The Buddhist school that teaches that experience is structured by consciousness and that the world is mind-dependent.
+Buddha-Nature :: The Mahayana teaching that all beings have the potential for awakening.
+Bodhisattva :: One who vows to attain awakening for the sake of all beings and postpones final release to help them.
+Compassion :: The Buddhist virtue of karuna, wishing to relieve the suffering of others, joined to wisdom.
+Mindfulness :: The Buddhist practice of attentive awareness of the present moment as a path to insight.
+Abhidharma :: The systematic Buddhist analysis of experience into basic constituents called dharmas.
+Buddhist Logic :: Dignaga's and Dharmakirti's theory of knowledge, which treats perception and inference as the only valid means.
+Catuskoti :: The four-cornered logic of affirming, denying, both and neither, used in Buddhist argument.
+Zen :: The Buddhist school, from Chan, that emphasises direct insight through meditation and beyond doctrinal study.
+Satori :: In Zen, a sudden flash of awakening or insight into one's true nature.
+Koan :: A paradoxical riddle used in Zen to break the grip of discursive thought.
+Kyoto School :: The twentieth-century Japanese philosophers, including Nishida and Nishitani, who combined Zen with Western philosophy.
+Absolute Nothingness :: Nishida's and Nishitani's idea of a groundless, unobjectifiable basis of reality that makes all things possible.
+Being-Time :: Dogen's thesis that being and time are inseparable and that each moment is complete in itself.
+Dao :: The Way, the fundamental pattern of nature and conduct, in Daoism an ineffable source of all things and in Confucianism the right path of life.
+Wu Wei :: Non-forcing action, the Daoist ideal of acting in harmony with the natural course of things.
+Yin and Yang :: The pair of complementary, interdependent forces whose interplay is seen to generate change in Chinese cosmology.
+Qi :: The vital energy or breath that animates the cosmos and the body in Chinese thought.
+Ziran :: Spontaneity or naturalness, the self-so quality of the Dao and of things that follow it.
+Daodejing :: The classic ascribed to Laozi, which teaches humility, simplicity and yielding in accord with the Dao.
+Butterfly Dream :: Zhuangzi's story of dreaming he was a butterfly, which questions the line between dream and waking and between self and other.
+Free and Easy Wandering :: Zhuangzi's ideal of spontaneous freedom that transcends conventional distinctions.
+Confucianism :: The tradition of Confucius that stresses moral cultivation, social roles, ritual and benevolent government.
+Ren :: The Confucian virtue of humaneness or benevolence, the root of ethical life.
+Li :: Ritual propriety, the forms of conduct through which Confucians cultivate character and social harmony.
+Yi :: Righteousness, the Confucian sense of doing what is appropriate in each situation.
+Filial Piety :: The Confucian virtue of respect and care for parents and ancestors, the root of other virtues.
+Junzi :: The exemplary person of Confucian ethics, who cultivates virtue and leads by example.
+Rectification of Names :: Confucius's thesis that social order requires words to match the roles and realities they name.
+Mandate of Heaven :: The Chinese doctrine that rulers hold power by Heaven's approval, which is lost through misrule.
+Mencius on Human Nature :: Mencius's view that human nature is good, with moral sprouts that must be nurtured.
+Xunzi on Human Nature :: Xunzi's view that human nature is bad and must be reshaped by ritual and education.
+Impartial Care :: The Mohist doctrine that we should care for all people equally, as an alternative to Confucian graded love.
+Legalism :: The school of Han Feizi that holds that order is maintained by strict law, punishment and the ruler's control.
+School of Names :: The Chinese logicians, including Gongsun Long, who analysed language, paradox and the relation between names and things.
+Neo-Confucianism :: The Song and Ming revival of Confucianism that integrated metaphysics from Buddhism and Daoism.
+Principle and Qi :: Zhu Xi's pairing of li, the patterning principle, with qi, the material energy that realises it.
+Unity of Knowledge and Action :: Wang Yangming's thesis that true knowledge of the good is inseparable from acting on it.
+Five Phases :: The Chinese system of wood, fire, earth, metal and water as interacting processes of change.
+Harmony :: In Chinese thought, the ideal of diverse elements cooperating without being made the same.
+Tianxia :: "All under heaven", the Chinese idea of a world order that is moral and universal, not merely political.
+Ma :: The Japanese notion of meaningful interval or negative space, central to aesthetics and thought.
+Bushido :: The code of the samurai, emphasising loyalty, honour and self-discipline.
+Falsafa :: The tradition of Islamic philosophy that took up and developed Greek thought in Arabic.
+Floating Man :: Avicenna's thought experiment of a suspended man who is aware of himself without sensing his body, suggesting the soul's independence.
+Necessary Existent :: Avicenna's argument that a being whose essence entails its existence must ground all contingent things.
+Unity of the Intellect :: Averroes's disputed doctrine that the active intellect is one for all humanity.
+Incoherence of the Philosophers :: Al-Ghazali's attack on the Aristotelian philosophers, which targeted their claims on causation and the eternity of the world.
+Kalam :: The Islamic tradition of rational theology that defends doctrine by argument.
+Mutazila :: The rationalist school of Islamic theology holding that reason can know good and evil and that God is just.
+Sufism :: The mystical dimension of Islam that seeks direct experience of God through love and discipline.
+Fana :: The Sufi annihilation of the self in God.
+Illuminationism :: Suhrawardi's philosophy in which reality is a hierarchy of light, known by direct presence as well as by reasoning.
+Primacy of Existence :: Mulla Sadra's claim that existence, not essence, is fundamental and that being admits of degrees and motion.
+Virtuous City :: Al-Farabi's vision of a state ruled by a philosopher-prophet, modelled on Plato.
+Asabiyyah :: Ibn Khaldun's concept of group solidarity as the driving force in the rise and fall of dynasties.
+I and Thou :: Buber's distinction between the I-It relation of use and the I-Thou relation of mutual presence.
+Kabbalah :: The Jewish mystical tradition that interprets the divine as emanating through a structure of ten spheres.
+Ubuntu :: The southern African idea that a person is a person through other persons, grounding an ethics of community.
+Akan Concept of Person :: The Akan view of a person as a composite of elements, with an emphasis on community and character.
+Sage Philosophy :: The study by Odera Oruka of the reflective thought of traditional African sages.
+Négritude :: The movement of Césaire and Senghor that affirmed black identity and culture against colonial denigration.
+Ethnophilosophy :: The study of philosophical thought embodied in the shared beliefs and practices of African peoples, and the critique of it.
+Philosophy of Liberation :: Dussel's and others' Latin American philosophy that starts from the standpoint of the oppressed.
+Buen Vivir :: The Andean ideal of living well in harmony with community and nature.
+Indigenous Relationality :: The view found across many Indigenous traditions that persons, land and other beings are bound in reciprocal relationships.

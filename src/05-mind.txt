@@ -1,0 +1,68 @@
+Mind-Body Problem :: The question of how mental states relate to the physical body and brain, central to philosophy since Descartes.
+Substance Dualism :: Descartes' view that mind and body are two distinct kinds of substance, one thinking and unextended, the other extended and unthinking.
+Property Dualism :: The view that there is one kind of substance, but mental properties are not reducible to physical ones.
+Interaction Problem :: The difficulty of explaining how an immaterial mind could causally affect a material body, pressed by Princess Elisabeth against Descartes.
+Epiphenomenalism :: The view that mental states are caused by physical processes but have no causal effect on them.
+Physicalism :: The view that everything, including mental states, is physical or depends on the physical.
+Identity Theory :: The view of Place and Smart that mental states are identical with brain states.
+Multiple Realizability :: The idea, due to Putnam, that the same mental state can be realised in different physical systems, an objection to type identity.
+Functionalism :: The view that mental states are defined by their causal roles in relation to inputs, outputs and other states, not by their material makeup.
+Behaviourism :: The view that mental states are dispositions to behave, and that psychology should concern only observable behaviour.
+Eliminative Materialism :: The view of the Churchlands that folk psychology is a false theory and that beliefs and desires will be replaced by neuroscience.
+Folk Psychology :: Our everyday framework of explaining behaviour by beliefs and desires, whose scientific standing is disputed.
+Anomalous Monism :: Davidson's view that each mental event is a physical event but that there are no strict psychophysical laws.
+Consciousness :: The having of subjective experience, the central puzzle of the philosophy of mind.
+Hard Problem of Consciousness :: Chalmers's question of why physical processes give rise to subjective experience at all.
+Qualia :: The intrinsic, subjectively experienced qualities of mental states, such as the redness of red.
+What Is It Like to Be a Bat :: Nagel's argument that consciousness has an irreducibly subjective character that objective science cannot capture.
+Knowledge Argument :: Jackson's story of Mary, a colour scientist who learns something new on seeing red for the first time, thought to refute physicalism.
+Explanatory Gap :: Levine's term for the gap between physical explanations of the brain and an explanation of why there is experience.
+Philosophical Zombie :: Chalmers's imagined being physically identical to us but lacking consciousness, used to argue against physicalism.
+Inverted Spectrum :: The thought experiment of a person whose colour experiences are systematically swapped with ours without any behavioural difference.
+Panpsychism :: The view that mind or experience is a fundamental feature of all matter.
+Mysterianism :: McGinn's view that the mind-body problem is real but beyond the cognitive reach of human beings.
+Higher-Order Theories :: Theories on which a mental state is conscious when one has a higher-order thought or perception of it.
+Global Workspace Theory :: Baars's view that consciousness is the broadcasting of information to many cognitive systems at once.
+Integrated Information Theory :: Tononi's view that consciousness corresponds to a system's integrated information, measured by phi.
+Access and Phenomenal Consciousness :: Block's distinction between information available for reasoning and action, and the raw experience itself.
+Intentionality :: The "aboutness" of mental states, their directedness at objects or states of affairs, which Brentano called the mark of the mental.
+Brentano's Thesis :: Brentano's claim that intentionality distinguishes the mental from the physical.
+Mental Representation :: The idea that thought involves internal states that stand for things beyond themselves.
+Language of Thought :: Fodor's hypothesis that thinking takes place in an inner symbolic system with syntax and compositional semantics.
+Computational Theory of Mind :: The view that mental processes are computations over mental representations.
+Chinese Room :: Searle's thought experiment showing that symbol manipulation alone does not suffice for understanding.
+Strong and Weak AI :: Searle's distinction between the claim that a suitably programmed computer has a mind and the claim that it merely models one.
+Turing Test :: Turing's proposal that a machine that is indistinguishable from a human in conversation should count as thinking.
+Artificial Intelligence :: The project of building machines that perform tasks requiring intelligence, which poses questions of understanding and moral status.
+Connectionism :: The approach that models cognition with networks of simple interconnected units rather than explicit symbolic rules.
+Frame Problem :: The difficulty of specifying which things change and which stay the same when an agent acts, a challenge for artificial intelligence.
+Extended Mind :: Clark and Chalmers's thesis that cognitive processes can extend into tools and the environment, such as a notebook serving as memory.
+Embodied Cognition :: The view that cognition depends on the body and its interactions with the world, not just on the brain.
+Enactivism :: The view that minds arise from the active engagement of organisms with their environments.
+4E Cognition :: The umbrella view that cognition is embodied, embedded, enacted and extended.
+Predictive Processing :: The theory that the brain continually generates predictions about its inputs and learns by reducing prediction error.
+Mental Causation :: The problem of how mental states can cause behaviour if the physical realm is causally closed.
+Causal Closure of the Physical :: The principle that every physical event with a cause has a sufficient physical cause.
+Exclusion Argument :: Kim's argument that mental causation is threatened by sufficient physical causes, leaving no work for the mental.
+Mental Content :: What a thought is about or says; narrow content is fixed by the head, broad content also by the environment.
+Propositional Attitudes :: Mental states, such as belief and desire, that take a proposition as their object.
+Belief-Desire Psychology :: The model on which actions are explained by what an agent wants and believes.
+Emotions :: Affective states such as fear and anger; accounts treat them as feelings, judgments, or embodied appraisals.
+Moods :: Diffuse affective states without a specific object, such as anxiety or elation, studied in phenomenology.
+Imagination :: The capacity to represent what is not present, important to thought, fiction and modal knowledge.
+Perception and Illusion :: The study of how we see the world and how experience can mislead, raising questions about the nature of appearance.
+Disjunctivism :: The view that veridical perception and hallucination are fundamentally different kinds of state, not a common experience.
+Representationalism :: The view that the phenomenal character of experience is exhausted by what it represents.
+Attention :: The selective focus of mind on certain items, studied for its role in consciousness and perception.
+Unity of Consciousness :: The fact that experiences are experienced together as belonging to a single subject.
+Binding Problem :: The puzzle of how features processed in different brain areas are combined into a single unified experience.
+Split Brain :: Cases, after severing of the corpus callosum, that suggest a single person may have divided consciousness.
+Self :: The subject of experience; theories range from an enduring soul to a bundle of perceptions to a narrative construction.
+Bundle Theory of the Self :: Hume's claim that the self is nothing but a bundle of perceptions in perpetual flux.
+No-Self :: The Buddhist and Humean view that there is no unchanging self underlying experience.
+Narrative Self :: The idea that selfhood is constituted by the stories we tell about our lives.
+Minimal Self :: The pre-reflective sense of being the subject of experience, defended by phenomenologists and Gallagher and Zahavi.
+Other Minds :: The problem of how we can know that others have minds, given that we perceive only their behaviour.
+Theory of Mind :: The capacity to attribute mental states to others, studied through theory-theory and simulation accounts.
+Simulation Theory :: The view that we understand others by simulating their mental states in ourselves.
+Animal Minds :: Questions of whether and how animals think and feel, with consequences for ethics.

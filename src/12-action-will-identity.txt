@@ -1,0 +1,57 @@
+Free Will :: The capacity of agents to choose among alternatives and to be the source of their actions, the subject of one of philosophy's oldest debates.
+Determinism :: The thesis that every event is necessitated by prior events and the laws of nature.
+Compatibilism :: The view that free will is compatible with determinism, defended by Hume, Frankfurt and Dennett.
+Incompatibilism :: The view that free will and determinism cannot both be true.
+Libertarianism about Free Will :: The incompatibilist view that we have free will and that determinism is false.
+Hard Determinism :: The view that determinism is true and that therefore there is no free will.
+Hard Incompatibilism :: Pereboom's view that free will, in the sense required for desert, is incompatible with both determinism and indeterminism.
+Consequence Argument :: Van Inwagen's argument that if determinism is true, our acts are consequences of facts we cannot control.
+Principle of Alternate Possibilities :: The principle that a person is responsible only if they could have done otherwise.
+Frankfurt Cases :: Frankfurt's examples of agents who are responsible though they could not have done otherwise, challenging the principle of alternate possibilities.
+Hierarchical Theory of Free Will :: Frankfurt's view that freedom involves having the will one wants to have, through second-order desires.
+Reasons-Responsiveness :: The view that an agent is free when they respond appropriately to reasons, as in Fischer and Ravizza.
+Agent Causation :: The view that free actions are caused directly by agents, not by prior events.
+Event-Causal Libertarianism :: The view that free actions are undetermined events caused by the agent's mental states.
+Luck Objection :: The challenge that indeterministic choices seem random and hence not free.
+Manipulation Argument :: Pereboom's argument that a manipulated agent is unfree, and that determinism is relevantly like manipulation.
+Basic Argument :: Galen Strawson's argument that no one can be ultimately responsible for who they are and so for what they do.
+Reactive Attitudes :: Strawson's idea that resentment and gratitude are natural responses that underlie our practice of holding responsible.
+Illusionism about Free Will :: The view that belief in free will is an illusion that may nonetheless be useful.
+Neuroscience and Free Will :: The issue raised by Libet's experiments about whether unconscious brain activity precedes conscious decisions.
+Fatalism :: The view that what will happen is fixed regardless of what we do.
+Action :: What agents do, as opposed to what merely happens to them; philosophers ask what distinguishes the two.
+Intention :: The mental state of aiming to act, which Anscombe distinguished from mere prediction.
+Reasons and Causes :: The debate over whether an agent's reasons for acting are also causes of the action, as Davidson maintained.
+Practical Reason :: Reasoning about what to do, as opposed to reasoning about what to believe.
+Intention and Foresight :: The distinction between what an agent aims at and what they merely foresee as a side effect.
+Weakness of Will :: Acting against one's own considered judgment of what is best.
+Self-Control :: The capacity to govern one's impulses in line with one's values.
+Self-Deception :: Believing something while at some level knowing it to be false, which poses puzzles about the unity of the mind.
+Moral Agency :: The capacity to act on moral reasons and to be held accountable.
+Collective Intentionality :: The capacity of groups to share intentions and act together, studied by Searle and Bratman.
+Joint Action :: Action performed by several agents together, analysed in terms of shared intentions.
+Personal Identity :: The question of what makes a person at one time the same as a person at another.
+Psychological Continuity :: The view, from Locke, that personal identity consists in the continuity of memory and character.
+Bodily Criterion :: The view that personal identity consists in the continuation of the same body or brain.
+Animalism :: The view that we are human animals and that personal identity is that of an organism.
+Teletransportation :: Parfit's thought experiment of being scanned and recreated elsewhere, to test what matters in survival.
+Fission :: Cases in which a person divides into two, used by Parfit to argue that identity is not what matters.
+What Matters in Survival :: Parfit's thesis that psychological continuity and connectedness, not identity, is what matters.
+Reductionism about Persons :: Parfit's view that a person's existence consists in other facts such as brain events and mental states.
+Narrative Identity :: The view that a person's identity is formed by the story they tell about their life.
+Soul :: The immaterial principle of life or mind in Plato, Aristotle and Christian thought, whose existence is disputed.
+Death :: The end of life, whose badness Epicurus denied and Nagel defended as a deprivation.
+Epicurus on Death :: The view that death is nothing to us, since when we exist death is not, and when death exists we are not.
+Deprivation Account of Death :: Nagel's view that death is bad because it deprives us of the goods of continued life.
+Meaning of Life :: The question of whether life has a purpose or significance, answered by religion, humanism and nihilism.
+Happiness :: The good life for a person, understood as pleasure, satisfaction or flourishing.
+Stoic Acceptance :: The Stoic view that peace comes from accepting what is outside our control and attending to what is within it.
+Dichotomy of Control :: Epictetus's distinction between what is up to us, such as judgments, and what is not.
+Ataraxia :: The Hellenistic ideal of tranquillity, freedom from disturbance, sought by Epicureans and skeptics.
+Apatheia :: The Stoic ideal of freedom from destructive passions.
+Cynicism :: The ancient school, from Diogenes, that rejected convention and sought a life in accord with nature.
+Epicureanism :: The philosophy of Epicurus that sought tranquil pleasure through modest desires and friendship.
+Stoicism :: The school of Zeno, Epictetus, Seneca and Marcus Aurelius that taught virtue as the sole good and life in accord with reason.
+Logos :: In Heraclitus and the Stoics, the rational order of the cosmos, also word and reason.
+Love :: Philosophers analyse love as desire for the beautiful (Plato), union (Aristophanes), valuing, or concern for the beloved's good.
+Platonic Love :: Plato's ascent from love of a body to love of Beauty itself, as in the Symposium.

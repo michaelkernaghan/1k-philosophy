@@ -1,0 +1,65 @@
+Meaning :: What words and sentences convey; theories tie it to reference, ideas, use, truth conditions or verification.
+Sense and Reference :: Frege's distinction between the object a term picks out and the mode of presentation by which it does so.
+Reference :: The relation by which a word or phrase picks out an object, central to theories of names and descriptions.
+Proper Names :: Terms like "Aristotle" that pick out individuals; descriptivists and causal theorists disagree about how they refer.
+Descriptivism :: The view of Frege and Russell that a name refers by means of a description or cluster of descriptions the speaker associates with it.
+Causal Theory of Reference :: Kripke's view that a name refers by a chain of communication leading back to an initial baptism, not by descriptions.
+Rigid Designation :: Kripke's term for an expression that refers to the same object in every possible world where it exists.
+Theory of Descriptions :: Russell's analysis of phrases like "the present king of France" as quantified claims rather than names, resolving puzzles about empty terms.
+Naming and Necessity :: Kripke's 1972 lectures arguing that names are rigid, that identity statements can be necessary a posteriori, and that essences exist.
+Necessary A Posteriori :: Truths like "water is H2O" that are necessary yet knowable only through experience.
+Contingent A Priori :: Truths such as "the standard metre is one metre long", knowable without experience yet not necessary, as Kripke argued.
+Two-Dimensionalism :: A framework that assigns expressions both a primary intension, tied to how we pick things out, and a secondary one, tied to what they pick out in worlds.
+Direct Reference Theory :: The view that the meaning of a name or indexical is just its referent, defended by Kaplan and Salmon.
+Indexicals :: Words like "I", "here" and "now" whose reference depends on context, analysed by Kaplan as having a stable character.
+Character and Content :: Kaplan's distinction between the rule that fixes reference in context and the proposition expressed in a particular context.
+Propositions :: The objects of belief and the bearers of truth, thought of as what sentences express across languages.
+Truth-Conditional Semantics :: The view, from Davidson and Tarski, that to give a sentence's meaning is to state the conditions under which it is true.
+Compositionality :: The principle that the meaning of a complex expression is determined by the meanings of its parts and how they are combined.
+Context Principle :: Frege's maxim that words have meaning only in the context of a sentence.
+Ideational Theory of Meaning :: Locke's view that words signify the ideas in the speaker's mind.
+Use Theory of Meaning :: Wittgenstein's thesis that the meaning of a word is its use in the language.
+Language Games :: Wittgenstein's term for the activities in which words are embedded, stressing that meaning is rooted in shared practice.
+Private Language Argument :: Wittgenstein's argument that a language whose words refer to a speaker's inner sensations alone, and that no one else can understand, is impossible.
+Rule-Following :: Wittgenstein's puzzle about what makes a use of a word correct, which Kripke read as a skeptical paradox about meaning.
+Kripkenstein :: Kripke's reading of Wittgenstein's rule-following considerations, claiming that no fact about me fixes what I mean by "plus".
+Family Resemblance :: Wittgenstein's idea that concepts like "game" are unified by overlapping similarities, not by a common essence.
+Picture Theory of Meaning :: The Tractatus view that a proposition is a picture of a possible state of affairs, sharing its logical form with reality.
+Said and Shown :: The Tractarian distinction between what can be stated and what can only be shown by the form of language.
+Ordinary Language Philosophy :: The Oxford approach of Austin and Ryle that philosophical problems arise from, and can be dissolved by attention to, everyday usage.
+Speech Acts :: Austin's and Searle's idea that to say something is to do something, such as promising, warning or asserting.
+Performative Utterance :: A statement like "I promise" that performs an action by being uttered, rather than describing it.
+Illocutionary Force :: The kind of act, such as asking, ordering or asserting, performed in saying something.
+Implicature :: Grice's term for what a speaker suggests without saying, governed by shared conversational maxims.
+Cooperative Principle :: Grice's idea that conversation is governed by norms of quantity, quality, relation and manner.
+Pragmatics :: The study of how context contributes to meaning beyond the literal content of sentences.
+Presupposition :: What a statement takes for granted, such as the existence of a king in "the king is bald", and whose failure leaves it neither true nor false, on Strawson's view.
+Semantic Externalism :: The thesis, from Putnam and Burge, that meaning and content depend partly on the environment and not just on the head.
+Twin Earth :: Putnam's thought experiment in which an identical-seeming liquid with a different chemistry shows that "meaning ain't in the head".
+Radical Translation :: Quine's thought experiment about interpreting a wholly unknown language, used to argue that meaning is indeterminate.
+Indeterminacy of Translation :: Quine's thesis that many incompatible translation manuals fit all the behavioural evidence equally well.
+Gavagai :: Quine's example of a native word used when a rabbit is seen, which cannot be pinned to "rabbit" rather than "undetached rabbit part".
+Principle of Charity :: Davidson's and Quine's maxim that interpretation should maximise the truth and rationality of the speaker's beliefs.
+Radical Interpretation :: Davidson's extension of Quine's idea, in which a theory of truth for a speaker's language is built from evidence of what they hold true.
+Natural Language and Formal Language :: The contrast between languages that grew up spontaneously and artificial languages with explicit syntax and semantics, as in the ideal language tradition.
+Linguistic Turn :: The twentieth-century shift in philosophy toward analysing language as the means of solving or dissolving philosophical problems.
+Sapir-Whorf Hypothesis :: The thesis that the language one speaks shapes or limits one's thought, in strong and weak versions.
+Universal Grammar :: Chomsky's proposal of an innate faculty that underlies the grammars of all human languages.
+Poverty of the Stimulus :: Chomsky's argument that children learn language from too little evidence to do so without innate structure.
+Innateness of Language :: The thesis that humans are born with specifically linguistic knowledge, central to the rationalist side of cognitive science.
+Syntax and Semantics :: The distinction between the formal rules that govern sentence structure and the meanings those structures carry.
+Metaphor :: Figurative speech in which one thing is described in terms of another, raising the question of whether it has a distinctive meaning.
+Ambiguity :: The presence of more than one meaning in an expression, which logical analysis seeks to disentangle.
+Analytic Philosophy :: The tradition, from Frege, Russell and Moore, that prizes clarity, logical analysis and close argument.
+Emotivism :: The view of Ayer and Stevenson that moral statements express attitudes and do not state facts.
+Expressivism :: The wider view that certain statements, notably moral ones, express mental states other than belief.
+Prescriptivism :: R. M. Hare's view that moral judgments are universalisable commands telling us what to do.
+Speech and Writing :: Derrida's critique of the tradition's privileging of speech as present meaning over writing as a derivative sign.
+Différance :: Derrida's coinage for the play of difference and deferral that makes meaning possible and never fully stable.
+Deconstruction :: Derrida's mode of reading that exposes the tensions and hierarchies on which texts depend, so that their meaning is unstable.
+Structuralism :: The approach, from Saussure and Lévi-Strauss, of explaining phenomena by their position in systems of relations.
+Signifier and Signified :: Saussure's two sides of the linguistic sign: the sound-image and the concept it evokes, linked arbitrarily.
+Semiotics :: The general study of signs and their meaning, developed by Peirce and Saussure.
+Peirce's Triad of Signs :: Peirce's classification of signs as icons, indices and symbols by their relation to what they stand for.
+Discourse :: Structured ways of speaking that shape what can be said and known, a central concept for Foucault.
+Hermeneutic Circle :: The idea that interpreting a whole requires understanding its parts, and understanding the parts requires some grasp of the whole.

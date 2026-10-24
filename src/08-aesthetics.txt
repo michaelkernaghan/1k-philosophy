@@ -1,0 +1,48 @@
+Beauty :: The quality of things that please when perceived or contemplated; philosophers disagree whether it is objective or subjective.
+Aesthetics :: The philosophical study of beauty, art and aesthetic experience, named by Baumgarten in the eighteenth century.
+Aesthetic Experience :: A distinctive kind of attention to an object for its own sake, marked by pleasure and absorption.
+Taste :: The capacity to judge beauty; Hume sought a standard of taste in the verdicts of ideal critics.
+Standard of Taste :: Hume's proposal that aesthetic value is revealed by the joint judgment of qualified critics.
+Judgment of Taste :: Kant's claim that a judgment of beauty is subjective yet claims universal assent.
+Disinterestedness :: The idea that aesthetic pleasure is free of desire for the object's use or possession, as in Kant and Schopenhauer.
+Purposiveness without Purpose :: Kant's phrase for the formal fit of a beautiful object, which seems designed though it serves no end.
+Sublime :: The experience of overwhelming greatness or power, such as a storm or mountain, which Burke and Kant contrasted with beauty.
+Genius :: Kant's term for the innate talent through which nature gives the rule to art.
+Mimesis :: Imitation or representation; Plato distrusted it and Aristotle saw it as the basis of art.
+Catharsis :: Aristotle's term for the purging or clarifying of emotions such as pity and fear through tragedy.
+Tragedy :: A dramatic form depicting suffering and downfall, whose appeal Aristotle, Hegel and Nietzsche each explained.
+Apollonian and Dionysian :: Nietzsche's contrast between art of order and form and art of ecstasy and dissolution.
+Expression Theory :: The view of Tolstoy and Collingwood that art is the expression of emotion.
+Formalism in Art :: The view that the value of an artwork lies in its form and not in its content or subject.
+Significant Form :: Clive Bell's thesis that what makes something art is its arrangement of lines and colours.
+Institutional Theory of Art :: Dickie's and Danto's view that something is art when the artworld confers that status on it.
+Artworld :: Danto's term for the theory and institutions that make it possible to see something as art.
+Definition of Art :: The question of whether art can be defined, with Weitz denying that it has necessary and sufficient conditions.
+Ready-Made :: Duchamp's practice of presenting ordinary objects as art, which forced the question of what makes art.
+Authenticity and Forgery :: The question of whether the origin of a work matters to its aesthetic value, when a perfect copy looks identical.
+Intentional Fallacy :: Wimsatt and Beardsley's claim that an author's intention is neither available nor desirable as a standard for judging a work.
+Death of the Author :: Barthes's thesis that a text's meaning is made by readers and not fixed by its writer.
+Interpretation :: The attempt to make sense of artworks and texts, with disputes over the role of authorial intention.
+Fiction :: Representations of imagined events; philosophers ask how we can respond emotionally to what we know to be unreal.
+Paradox of Fiction :: The puzzle of why we feel real emotions for characters we know do not exist.
+Paradox of Tragedy :: The puzzle of why we take pleasure in works that depict painful events.
+Make-Believe :: Walton's account of fiction as props in games of imagination.
+Music :: The art of sound; philosophers ask how it expresses emotion and what its meaning consists in.
+Aesthetics of Nature :: The study of the appreciation of natural environments, in contrast with art.
+Environmental Aesthetics :: The study of how we perceive and value built and natural surroundings.
+Everyday Aesthetics :: The study of aesthetic qualities in ordinary life beyond the arts.
+Kitsch :: Sentimental, formulaic art that flatters its audience, which critics such as Greenberg and Kundera disdained.
+Aura :: Benjamin's term for the unique presence of an original artwork, which mechanical reproduction erodes.
+Culture Industry :: Adorno and Horkheimer's critique of mass-produced culture as a means of social control.
+Aesthetic Education :: Schiller's view that experience of beauty can cultivate freedom and moral character.
+Aesthetic Value :: The goodness of a thing as an object of aesthetic regard, and the question of whether it can be separated from moral and cognitive value.
+Moralism and Autonomism :: The debate over whether an artwork's moral qualities affect its aesthetic merit.
+Gaze :: The way in which viewing is structured by power, as in the male gaze of feminist film theory.
+Postmodernism in Art :: The rejection of grand narratives and the blurring of high and low, with play and pastiche.
+Simulacra :: Baudrillard's term for copies without originals, in a culture saturated with signs and images.
+Hyperreality :: Baudrillard's idea that models and images come to replace reality in advanced media culture.
+Sensus Communis :: The shared sense on which Kant based the demand that others agree with one's judgment of taste.
+Wabi-Sabi :: The Japanese aesthetic that finds beauty in impermanence and imperfection.
+Mono no Aware :: The Japanese sensitivity to the transience of things, a gentle sadness at their passing.
+Yūgen :: The Japanese aesthetic of subtle, profound mystery suggested but not stated.
+Rasa :: The Indian theory of aesthetic flavour, the emotional essence evoked in an audience by drama and poetry.

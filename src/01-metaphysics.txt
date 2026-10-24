@@ -1,0 +1,95 @@
+Being :: The most general question of what it is for anything to exist at all; Parmenides, Aristotle and Heidegger each made it central, asking what "is" means across all that is.
+Substance :: The underlying bearer of properties that persists through change; for Aristotle the primary reality, for Descartes and Spinoza what depends on nothing else, for Locke an unknowable substratum.
+Essence :: What a thing is in itself, those features without which it would not be the thing it is, as opposed to its merely accidental traits.
+Existence :: Whether and how anything is actual; Kant argued it is not a real predicate, and Quine held that to be is to be the value of a bound variable.
+Universals :: Properties or kinds, such as redness, that many particular things seem to share; the debate is whether they exist beyond their instances.
+Particulars :: Individual, unrepeatable things located in space and time, contrasted with the universals they instantiate.
+Nominalism :: The view that only particulars exist and that general terms name no shared entities, only similar things or the words we apply to them.
+Realism about Universals :: The view that universals exist, either apart from their instances (Plato) or only in them (Aristotle, Armstrong).
+Platonic Forms :: Plato's eternal, perfect, non-physical patterns, such as the Good and the Beautiful, of which sensible things are imperfect copies.
+Matter :: The stuff or potential from which things are made; in Aristotle it is what takes form, in modern thought what physics describes.
+Hylomorphism :: Aristotle's view that every natural thing is a compound of matter and form, with the form making the matter the kind of thing it is.
+Causation :: The relation by which one event or state brings about another; analyses include regularity, counterfactual dependence, and productive power.
+Four Causes :: Aristotle's material, formal, efficient and final causes, four distinct ways of answering "why is this thing as it is?"
+Teleology :: Explanation by purpose or end; Aristotle saw ends in nature, while modern science generally excludes final causes outside agency.
+Potentiality and Actuality :: Aristotle's pair for what a thing can become versus what it currently is, used to explain change without making something come from nothing.
+Change :: The problem of how a thing can become different yet remain itself; Parmenides denied it and Heraclitus made it fundamental.
+Becoming :: Reality understood as ceaseless flux rather than fixed being, associated with Heraclitus, Hegel and Whitehead.
+Identity :: The relation each thing bears only to itself; philosophers ask what makes a thing one and the same over time and across descriptions.
+Identity of Indiscernibles :: Leibniz's principle that no two distinct things share all their properties; its converse, the indiscernibility of identicals, is uncontroversial.
+Leibniz's Law :: If a and b are identical, whatever is true of a is true of b; it is the standard test for ruling out claimed identities.
+Persistence :: How an object exists across time, either by being wholly present at each moment (endurance) or by having temporal parts (perdurance).
+Endurantism :: The view that an ordinary object is wholly present at every moment of its existence and has no temporal parts.
+Perdurantism :: The view that objects are four-dimensional wholes extended in time, with each moment a temporal part, as developed by Lewis and Sider.
+Time :: The dimension of before and after; Augustine and McTaggart asked whether it is real, and physics and metaphysics dispute its direction and flow.
+A-Theory of Time :: The view that the passage of time and the distinction of past, present and future are objective features of reality.
+Presentism :: The A-theory that only present things exist, so the past is gone and the future is not yet.
+B-Theory of Time :: The view that events are ordered only by earlier-than and later-than, and that the flow of time is an illusion of perspective.
+Eternalism :: The view that past, present and future events all exist equally, as in the block universe suggested by relativity.
+Growing Block Universe :: The view that the past and present exist but the future does not, so reality grows as time passes.
+McTaggart's Paradox :: The argument that time is unreal because the A-series is contradictory and the B-series alone cannot give change.
+Space :: The arena of spatial relations; the question is whether it is a thing, a container, or just the relations among bodies.
+Substantivalism :: The view that space or spacetime is a real entity existing independently of the objects in it, as Newton held.
+Relationalism :: The view that space and time are nothing over and above relations among objects and events, as Leibniz argued.
+Possibility and Necessity :: The modal notions of what could be and what must be, which give metaphysics its distinction between the contingent and the unavoidable.
+Possible Worlds :: Complete ways things might have been, used since Leibniz and Kripke to analyse necessity, possibility and counterfactuals.
+Modal Realism :: David Lewis's thesis that possible worlds are as real as our own, concrete and causally isolated from one another.
+Actualism :: The view that only actual things exist, so talk of merely possible entities must be reduced to something actual.
+Contingency :: The status of what is true but might have been false; Leibniz and Aquinas used it to argue for a necessary ground.
+Necessary Being :: A being that cannot fail to exist, invoked in cosmological arguments as the explanation of contingent things.
+Principle of Sufficient Reason :: Leibniz's principle that everything has a reason why it is so rather than otherwise.
+Essentialism :: The view that some properties are essential to an object, so it could not exist without them.
+Haecceity :: The "thisness" of an individual, the non-qualitative property that makes it this very thing and no other, a notion due to Duns Scotus.
+Individuation :: The question of what makes one thing a single, distinct individual, whether matter, form, location or bare particularity.
+Quiddity :: The "whatness" of a thing, its essence as answering the question what it is, a term of scholastic philosophy.
+Monism :: The view that reality is ultimately one kind of thing, or even one thing, as in Parmenides, Spinoza and Advaita.
+Pluralism :: The view that reality comprises many fundamentally distinct entities or kinds, with no single underlying one.
+Idealism :: The view that reality is fundamentally mental or dependent on mind, whether Berkeley's ideas, Kant's transcendental form, or Hegel's Spirit.
+Materialism :: The view that everything that exists is matter or depends on matter, a thesis traceable to Democritus and Lucretius.
+Naturalism :: The view that reality is exhausted by the natural world studied by science, with no supernatural order beyond it.
+Emergence :: The idea that complex systems have properties that are not predictable from, or reducible to, those of their parts.
+Supervenience :: A dependence relation on which there can be no difference in one domain, such as the mental or moral, without a difference in another.
+Reduction :: Explaining one domain, a theory or kind of entity, wholly in terms of another more basic domain.
+Grounding :: A relation of metaphysical explanation by which one fact holds in virtue of another, such as the fact that a set exists in virtue of its members.
+Fundamentality :: The question of which entities or facts are basic and which are derivative, structuring all of metaphysics.
+Mereology :: The formal theory of parts and wholes, asking when objects compose a further object and how parthood behaves.
+Composition :: Van Inwagen's Special Composition Question: under what conditions do several things add up to a single object?
+Vagueness :: The fact that many predicates lack sharp boundaries; the issue is whether this is a defect of language, knowledge or reality.
+Ship of Theseus :: A puzzle about identity over time: if every plank of a ship is replaced, and the old planks reassembled, which ship is the original?
+Properties :: The qualities and relations things have; the debate is whether they are universals, sets, tropes or something else.
+Tropes :: Particularized properties, such as this particular redness of this apple, proposed as the basic building blocks of reality.
+Bundle Theory :: The view, taken from Hume, that an object is nothing but a collection of properties with no substratum beyond them.
+Natural Kinds :: Categories that carve nature at its joints, such as gold or tiger, as opposed to arbitrary groupings.
+Dispositions :: Properties like fragility or solubility, tendencies to manifest in certain conditions, which some hold to be irreducibly basic.
+Laws of Nature :: The regularities or necessities governing events; Humeans see them as patterns, while others see real necessitation.
+Humean Supervenience :: Lewis's doctrine that all facts supervene on the spatiotemporal arrangement of local qualities, with no necessary connections.
+Counterfactuals :: Conditionals about what would have happened had things been otherwise, analysed through possible worlds by Stalnaker and Lewis.
+Truthmakers :: The things in the world in virtue of which true statements are true; the question is whether every truth needs one.
+Abstract Objects :: Entities like numbers, sets and propositions that are not located in space and time and have no causal power.
+Platonism :: The view that abstract objects, especially mathematical ones, exist independently of minds and language.
+Fictionalism :: The view that statements about some domain, such as numbers or morals, are useful fictions rather than literal truths.
+Events :: Occurrences like a collision or a birth; the debate is whether they are basic particulars or properties of objects at times.
+Facts :: What makes true statements true, or true propositions themselves; their status is contested between Russell, Wittgenstein and Strawson.
+States of Affairs :: Complexes of an object having a property or objects standing in a relation, taken by Armstrong as the world's basic constituents.
+Nothingness :: The idea of absence or non-being; Parmenides banned it, Sartre made it constitutive of consciousness, and Leibniz asked why there is something rather than nothing.
+Why Is There Something Rather Than Nothing :: Leibniz's ultimate question of existence, asking why there is a world at all and whether the question has any answer.
+Metaontology :: The study of what ontological questions mean, and whether they have objective answers or only answers relative to a framework.
+Ontological Commitment :: Quine's idea that a theory is committed to whatever must exist for it to be true, read off from its quantifiers.
+Ontological Relativity :: Quine's thesis that what a theory refers to can be fixed only relative to a background language and a mapping to another.
+Categories :: The most general kinds of being; Aristotle listed ten, including substance, quantity, quality and relation, and Kant gave twelve concepts of understanding.
+Transcendentals :: In scholastic thought, properties of being as such, usually unity, truth and goodness, convertible with being.
+Analogy of Being :: The scholastic doctrine that "being" applies to God and creatures neither univocally nor equivocally but by analogy.
+Esse and Essentia :: Aquinas's distinction between a thing's act of existing and its essence, which in God alone are identical.
+Process Philosophy :: The view, from Whitehead, that events and becoming rather than enduring substances are the basic realities.
+Monad :: Leibniz's simple, windowless, soul-like substances of which all reality is composed, each mirroring the universe.
+Pre-established Harmony :: Leibniz's doctrine that substances do not interact but were created by God to unfold in perfect agreement.
+Occasionalism :: The view that God is the only true cause, and created things merely provide occasions for his action.
+Neutral Monism :: The view that mind and matter are both made of one neutral stuff, as held by Russell and Mach.
+Conatus :: Spinoza's term for the striving of every thing to persevere in its own being, the root of his psychology and ethics.
+Accident :: A property a thing has but could lack without ceasing to be what it is, in contrast to its essence.
+Mode :: In Spinoza, a particular way a substance is affected; in scholastic thought, a determination of a thing that is neither substance nor accident.
+Appearance and Reality :: The distinction between how things seem and how they are, running from Parmenides and Plato through Bradley.
+Immanence and Transcendence :: Whether the divine or ultimate lies within the world or beyond it, a division organising pantheism, theism and much modern thought.
+Coherentism about Reality :: The idealist view, as in Bradley, that reality is a single coherent whole and that separate things are abstractions from it.
+Internal and External Relations :: Whether relations are grounded in the natures of the things related, as monists hold, or can be external to them, as Russell held.
+Existence Precedes Essence :: Sartre's claim that a human being first exists and then defines itself by choice, with no fixed nature given in advance.

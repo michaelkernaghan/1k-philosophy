@@ -1,0 +1,106 @@
+The Good :: What is worth pursuing or valuing; Plato placed the Form of the Good at the summit of reality and ethics asks what makes things good.
+Virtue :: A stable trait of character that enables excellent action, central to Aristotle's ethics.
+Virtue Ethics :: The approach that makes character, not rules or consequences, the basis of morality.
+Eudaimonia :: Aristotle's term for human flourishing, the final end of life, achieved through virtuous activity.
+Doctrine of the Mean :: Aristotle's view that each virtue lies between an excess and a deficiency, such as courage between rashness and cowardice.
+Practical Wisdom :: Aristotle's phronesis, the capacity to see what to do in particular situations, which unifies the virtues.
+Cardinal Virtues :: Wisdom, courage, temperance and justice, the four hinge virtues of the classical tradition.
+Habituation :: Aristotle's idea that virtues are acquired by practice, becoming second nature.
+Akrasia :: Weakness of will, acting against one's better judgment, which Socrates denied was possible.
+Socratic Intellectualism :: Socrates' view that virtue is knowledge and that no one does wrong knowingly.
+Unity of the Virtues :: The thesis that the virtues are inseparable, so that one cannot truly have one without the others.
+Consequentialism :: The view that the rightness of an act depends only on its outcomes.
+Utilitarianism :: The view of Bentham and Mill that the right act maximises overall happiness or welfare.
+Principle of Utility :: Bentham's principle that actions are right in proportion as they tend to promote happiness and wrong as they tend to produce its reverse.
+Hedonism :: The view that pleasure is the only intrinsic good and pain the only intrinsic evil.
+Higher and Lower Pleasures :: Mill's distinction holding that intellectual pleasures are intrinsically more valuable than bodily ones.
+Act and Rule Utilitarianism :: The contrast between judging each act by its consequences and judging acts by rules whose general adoption would be best.
+Preference Utilitarianism :: The view that what matters is the satisfaction of preferences, developed by Hare and Singer.
+Welfare and Well-Being :: Theories of what makes a life go well, whether pleasure, desire satisfaction or objective goods.
+Experience Machine :: Nozick's thought experiment designed to show that we value more than pleasurable experiences.
+Repugnant Conclusion :: Parfit's result that total utilitarianism implies a vast population with lives barely worth living would be better than a smaller flourishing one.
+Deontology :: The view that some acts are right or wrong in themselves, regardless of their consequences.
+Categorical Imperative :: Kant's supreme principle of morality, commanding that we act only on maxims we could will as universal laws.
+Hypothetical Imperative :: A command of reason that tells us what to do given a goal we already have, in contrast to a categorical one.
+Universal Law Formula :: The first version of Kant's imperative, which tests maxims by whether they can be universalised without contradiction.
+Humanity Formula :: Kant's imperative to treat humanity, in oneself and others, always as an end and never merely as a means.
+Good Will :: Kant's claim that the only thing good without qualification is a will that acts from duty.
+Duty :: What morality requires of us; Kant held that actions have moral worth only when done from respect for duty.
+Autonomy :: Self-governance; for Kant, the will's giving itself the moral law.
+Dignity :: The unconditional worth of persons, which Kant opposed to price.
+Moral Law :: The principle of morality that binds all rational beings, for Kant given by reason.
+Prima Facie Duties :: W. D. Ross's idea of several duties, each binding unless outweighed by another in a given situation.
+Rights Theory :: The view that moral standing is expressed in individual rights, which limit what may be done to persons.
+Natural Rights :: Rights held to belong to people as such, independent of any government, as in Locke.
+Human Rights :: Fundamental claims all persons hold by virtue of their humanity, enshrined in modern declarations.
+Contractualism :: Scanlon's view that an act is wrong if it is forbidden by principles no one could reasonably reject.
+Social Contract Ethics :: The view that morality consists in rules agreed upon by rational persons for mutual benefit.
+Ethics of Care :: The view of Gilligan and Noddings that morality centres on relationships and attentiveness to particular others.
+Moral Particularism :: The view that morality has no general principles and that moral reasons depend on the case.
+Moral Realism :: The view that there are objective moral facts independent of what anyone thinks.
+Anti-Realism in Ethics :: The family of views denying that there are mind-independent moral facts.
+Error Theory :: Mackie's view that moral claims aim at objective truth but are all false because no such facts exist.
+Moral Relativism :: The view that moral truth or justification is relative to a culture or individual.
+Cultural Relativism :: The thesis that moral standards vary with culture and have no independent authority.
+Moral Nihilism :: The view that nothing is morally right or wrong, or that moral claims have no truth.
+Naturalism in Ethics :: The view that moral properties are natural properties that science can study.
+Non-Naturalism :: Moore's view that goodness is a simple, indefinable, non-natural property.
+Naturalistic Fallacy :: Moore's charge that it is an error to define "good" in terms of any natural property.
+Is-Ought Problem :: Hume's observation that one cannot derive an ought from an is without a further evaluative premise.
+Open Question Argument :: Moore's argument that "is it good?" stays open whatever natural property we name, so good is not identical to it.
+Moral Sentimentalism :: The view of Hume and Smith that morality is grounded in sentiments such as sympathy.
+Sympathy :: In Hume and Smith, the capacity to feel with others, which underlies moral approval.
+Impartial Spectator :: Adam Smith's imagined fair observer, whose approval is the standard of conduct.
+Moral Intuitionism :: The view that we know basic moral truths directly, without inference.
+Constructivism in Ethics :: The view that moral truths are determined by the outcome of an idealised procedure of reasoning.
+Divine Command Theory :: The view that morality consists in the commands of God.
+Euthyphro Dilemma :: Plato's question whether the pious is loved by the gods because it is pious, or pious because it is loved.
+Natural Law :: The view, from Aquinas, that moral principles are grounded in human nature and discoverable by reason.
+Doctrine of Double Effect :: The principle that a harm may be permissible as a foreseen side effect though impermissible as an intended means.
+Doing and Allowing :: The distinction between causing harm and failing to prevent it, which many hold to differ morally.
+Trolley Problem :: Foot's and Thomson's dilemmas about diverting a runaway trolley, probing the limits of consequentialism and deontology.
+Supererogation :: Acts that are good but beyond the call of duty.
+Moral Luck :: Williams's and Nagel's puzzle that we are judged by factors beyond our control.
+Moral Responsibility :: The conditions under which a person is rightly praised or blamed for an act.
+Moral Psychology :: The study of the mental capacities underlying morality, such as motivation, emotion and character.
+Moral Motivation :: The question of what moves us to act morally, with internalists tying judgment to motivation.
+Moral Status :: Whether a being matters morally for its own sake, whether infants, animals or artificial beings.
+Moral Circle :: The boundary of beings given moral consideration, which Singer argues has been widened over history.
+Animal Ethics :: The study of our obligations to animals, including Singer's critique of speciesism and Regan's rights view.
+Speciesism :: The charge that favouring one's own species without a morally relevant ground is a prejudice like racism.
+Environmental Ethics :: The study of our obligations to nature, including deep ecology and the land ethic.
+Deep Ecology :: Naess's view that nature has intrinsic value and that human interests do not override it.
+Land Ethic :: Leopold's proposal that we treat the land community as a moral object.
+Future Generations :: The question of what we owe to people not yet born, and how to weigh their interests.
+Population Ethics :: The study of the value of different possible populations, with puzzles like the repugnant conclusion.
+Effective Altruism :: The movement and view that we should use evidence and reason to do as much good as possible.
+Duty of Beneficence :: Singer's argument that affluent people must give to relieve suffering when they can do so at little cost.
+Drowning Child :: Singer's analogy that failing to aid distant strangers is like refusing to save a child at small cost.
+Bioethics :: The ethics of medicine and biology, including consent, life and death, and enhancement.
+Autonomy in Medicine :: The principle that competent patients have the right to decide about their own treatment.
+Informed Consent :: A person's voluntary agreement to a procedure on the basis of adequate understanding.
+Euthanasia :: Deliberately ending life to relieve suffering, which raises issues of autonomy and the sanctity of life.
+Just War Theory :: The tradition of criteria governing when war is justified and how it may be fought.
+Punishment :: The infliction of a penalty for wrongdoing, justified by retribution, deterrence or reform.
+Retributivism :: The view that wrongdoers deserve punishment in proportion to their wrongdoing.
+Deterrence :: The justification of punishment by its effect in discouraging future offences.
+Machine Ethics :: The study of how artificial agents should act and what moral limits apply to their design.
+Golden Rule :: The principle, found across traditions, to treat others as one would wish to be treated.
+Altruism :: Acting for the benefit of others, and the debate whether it exists or reduces to self-interest.
+Psychological Egoism :: The claim that all human action is ultimately motivated by self-interest.
+Ethical Egoism :: The normative view that each person ought to pursue their own interest.
+Master and Slave Morality :: Nietzsche's contrast between a morality of strength and one born of resentment among the weak.
+Genealogy of Morals :: Nietzsche's historical critique tracing moral concepts to the interests and psychology that produced them.
+Ressentiment :: Nietzsche's term for the festering resentment of the powerless, which he saw as the root of slave morality.
+Will to Power :: Nietzsche's idea that the basic drive of living things is to expand and exert their strength.
+Reasons for Action :: The considerations that count in favour of acting, central to debates about internalism and externalism.
+Internalism about Reasons :: Williams's thesis that a reason must connect to the agent's existing motivations.
+Rationality and Morality :: The question of whether it is always rational to act morally, posed by Plato and Sidgwick.
+Dualism of Practical Reason :: Sidgwick's worry that reason supports both egoism and impartial benevolence, with no way to reconcile them.
+Value Pluralism :: Berlin's view that human values are many and sometimes irreconcilable, with no single scale for weighing them.
+Intrinsic and Instrumental Value :: The distinction between what is valuable for its own sake and what is valuable as a means.
+Fitting Attitude Analysis :: The view that to be valuable is to merit a favourable attitude.
+Thick and Thin Concepts :: The contrast between richly descriptive evaluative terms like "cruel" and thin ones like "good".
+Dirty Hands :: The problem that political and moral life can require doing wrong in order to do right.
+Demandingness Objection :: The complaint that consequentialism asks too much of agents.
+Integrity :: Williams's idea that morality must leave room for the projects and commitments that make a life one's own.
