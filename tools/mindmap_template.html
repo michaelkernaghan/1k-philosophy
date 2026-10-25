@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Philosophy Mind Map</title>
+<style>
+:root{--bg:#faf8f4;--fg:#222;--muted:#6b665e;--card:#fff;--line:#d9d3c7;--link:#c9c2b4}
+@media (prefers-color-scheme:dark){:root{--bg:#18171a;--fg:#e8e4dc;--muted:#a09a8f;--card:#222126;--line:#34323a;--link:#4a4752}}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{background:var(--bg);color:var(--fg);font:14px system-ui,sans-serif;overflow:hidden}
+#top{position:fixed;left:0;right:0;top:0;display:flex;gap:8px;align-items:center;padding:8px 12px;background:var(--bg);border-bottom:1px solid var(--line);z-index:3;flex-wrap:wrap}
+#top h1{font:600 1rem Georgia,serif;margin:0 6px 0 0}
+#q{flex:1;min-width:160px;padding:6px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg);font:inherit}
+button.b{border:1px solid var(--line);background:var(--card);color:var(--fg);padding:6px 10px;border-radius:8px;font:inherit;cursor:pointer}
+#hits{position:fixed;top:48px;left:12px;width:min(320px,calc(100% - 24px));max-height:40vh;overflow:auto;background:var(--card);border:1px solid var(--line);border-radius:8px;z-index:4;display:none}
+#hits div{padding:6px 10px;cursor:pointer;border-bottom:1px solid var(--line)}
+#hits div:hover{background:var(--line)}
+#hits small{color:var(--muted)}
+svg{position:fixed;inset:0;width:100%;height:100%;cursor:grab;touch-action:none}
+svg.drag{cursor:grabbing}
+.link{fill:none;stroke:var(--link);stroke-width:1}
+.node{cursor:pointer}
+.node text{fill:var(--fg);pointer-events:none}
+.node circle{stroke:var(--bg);stroke-width:1.5}
+.leaf text{font-size:11px}
+.sel circle{stroke:var(--fg);stroke-width:2.5}
+#panel{position:fixed;right:12px;bottom:12px;width:min(380px,calc(100% - 24px));background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;z-index:3;display:none;font:15px/1.5 Georgia,serif}
+#panel h2{margin:0 0 4px;font-size:1.05rem}
+#panel .meta{color:var(--muted);font:12px system-ui,sans-serif;margin-bottom:6px}
+#panel .x{position:absolute;right:8px;top:4px;border:0;background:none;color:var(--muted);font-size:18px;cursor:pointer}
+#help{position:fixed;left:12px;bottom:12px;color:var(--muted);font-size:12px;z-index:2}
+</style>
+</head>
+<body>
+<div id="top">
+<h1>Philosophy Mind Map</h1>
+<input id="q" type="search" placeholder="Find a concept" aria-label="Find a concept" autocomplete="off">
+<button class="b" id="collapse">Collapse all</button>
+<button class="b" id="reset">Reset view</button>
+<a class="b" style="text-decoration:none;color:inherit" href="index.html">List view</a>
+</div>
+<div id="hits"></div>
+<svg id="svg"><g id="vp"><g id="links"></g><g id="nodes"></g></g></svg>
+<div id="panel"><button class="x" id="px" aria-label="Close">x</button><h2 id="pt"></h2><div class="meta" id="pm"></div><div id="ps"></div></div>
+<div id="help">Click a branch to open it, then a subtopic to show its concepts. Drag to pan, scroll to zoom.</div>
+<script>
+const TREE = __TREE__;
+const NS = "http://www.w3.org/2000/svg";
+const R = [0, 150, 330, 590];
+const state = {open: new Set(), sel: null};
+let id = 0;
+(function idn(n, depth, parent) { n.id = id++; n.depth = depth; n.parent = parent; n.hue = parent && parent.hue !== undefined ? parent.hue : 0; (n.children || []).forEach((c, i) => { if (depth === 0) c.hue = Math.round(i * 360 / TREE.children.length); idn(c, depth + 1, n); }); })(TREE, 0, null);
+function hue(n) { let x = n; while (x.depth > 1) x = x.parent; return x.hue || 0; }
+function color(n) { if (n.depth === 0) return "#888"; const h = hue(n); const dark = matchMedia("(prefers-color-scheme: dark)").matches; return "hsl(" + h + "," + (dark ? 55 : 55) + "%," + (dark ? 62 : 42) + "%)"; }
+function visibleChildren(n) { return n.children && (n.depth === 0 || state.open.has(n.id)) ? n.children : []; }
+function weight(n) { const ch = visibleChildren(n); if (!ch.length) return 1; return ch.reduce((s, c) => s + weight(c), 0); }
+const pos = [];
+function layout(n, a0, a1) {
+  n.a = (a0 + a1) / 2; n.r = R[Math.min(n.depth, 3)];
+  n.x = n.r * Math.cos(n.a); n.y = n.r * Math.sin(n.a);
+  pos.push(n);
+  const ch = visibleChildren(n);
+  if (!ch.length) return;
+  const total = ch.reduce((s, c) => s + weight(c), 0);
+  let a = a0;
+  for (const c of ch) { const w = (a1 - a0) * weight(c) / total; layout(c, a, a + w); a += w; }
+}
+function el(name, attrs) { const e = document.createElementNS(NS, name); for (const k in attrs) e.setAttribute(k, attrs[k]); return e; }
+function render() {
+  pos.length = 0;
+  layout(TREE, -Math.PI / 2, 3 * Math.PI / 2);
+  const L = document.getElementById("links"), N = document.getElementById("nodes");
+  L.textContent = ""; N.textContent = "";
+  for (const n of pos) {
+    if (n.parent) L.appendChild(el("line", {class: "link", x1: n.parent.x, y1: n.parent.y, x2: n.x, y2: n.y}));
+  }
+  for (const n of pos) {
+    const leaf = n.depth === 3;
+    const g = el("g", {class: "node" + (leaf ? " leaf" : "") + (state.sel === n.id ? " sel" : ""), transform: "translate(" + n.x + "," + n.y + ")"});
+    const rad = n.depth === 0 ? 34 : n.depth === 1 ? 16 : n.depth === 2 ? 7 : 4;
+    g.appendChild(el("circle", {r: rad, fill: color(n)}));
+    const t = el("text", {});
+    t.textContent = n.depth === 3 ? n.t : n.name;
+    if (n.depth === 0) { t.setAttribute("text-anchor", "middle"); t.setAttribute("dy", "0.35em"); t.setAttribute("fill", "#fff"); t.style.fill = "#fff"; t.style.font = "600 12px system-ui"; }
+    else {
+      const deg = n.a * 180 / Math.PI, right = Math.cos(n.a) >= 0;
+      const off = rad + 5;
+      t.setAttribute("transform", "rotate(" + (right ? deg : deg + 180) + ")");
+      t.setAttribute("x", right ? off : -off);
+      t.setAttribute("text-anchor", right ? "start" : "end");
+      t.setAttribute("dy", "0.35em");
+      t.style.fontSize = n.depth === 1 ? "13px" : n.depth === 2 ? "10.5px" : "11px";
+      if (n.depth === 1) t.style.fontWeight = "600";
+    }
+    g.appendChild(t);
+    g.addEventListener("click", ev => { ev.stopPropagation(); if (!moved) clickNode(n); });
+    N.appendChild(g);
+  }
+}
+function clickNode(n) {
+  if (n.depth === 3) { select(n); return; }
+  if (n.depth === 0) return;
+  if (state.open.has(n.id)) { state.open.delete(n.id); (n.children || []).forEach(c => state.open.delete(c.id)); }
+  else { state.open.add(n.id); }
+  render();
+}
+function select(n) {
+  state.sel = n.id;
+  document.getElementById("pt").textContent = n.t;
+  document.getElementById("pm").textContent = "#" + n.n + " | " + n.parent.parent.name + " | " + n.parent.name;
+  document.getElementById("ps").textContent = n.s;
+  document.getElementById("panel").style.display = "block";
+  render();
+}
+document.getElementById("px").onclick = () => { document.getElementById("panel").style.display = "none"; state.sel = null; render(); };
+document.getElementById("collapse").onclick = () => { state.open.clear(); render(); fit(); };
+let view = {x: 0, y: 0, k: 0.55};
+let moved = false;
+function applyView() { document.getElementById("vp").setAttribute("transform", "translate(" + view.x + "," + view.y + ") scale(" + view.k + ")"); }
+function fit() { const s = document.getElementById("svg").getBoundingClientRect(); view = {x: s.width / 2, y: s.height / 2 + 20, k: Math.min(s.width, s.height) / 1000}; applyView(); }
+document.getElementById("reset").onclick = fit;
+const svg = document.getElementById("svg");
+let drag = null;
+svg.addEventListener("pointerdown", e => { drag = {x: e.clientX, y: e.clientY, vx: view.x, vy: view.y}; moved = false; });
+svg.addEventListener("pointermove", e => { if (!drag) return; const dx = e.clientX - drag.x, dy = e.clientY - drag.y; if (Math.abs(dx) + Math.abs(dy) > 4) { moved = true; svg.classList.add("drag"); } if (moved) { view.x = drag.vx + dx; view.y = drag.vy + dy; applyView(); } });
+addEventListener("pointerup", () => { drag = null; svg.classList.remove("drag"); setTimeout(() => moved = false, 0); });
+svg.addEventListener("wheel", e => { e.preventDefault(); const f = e.deltaY < 0 ? 1.12 : 1 / 1.12; const nk = Math.max(0.15, Math.min(4, view.k * f)); const r = svg.getBoundingClientRect(); const mx = e.clientX - r.left, my = e.clientY - r.top; view.x = mx - (mx - view.x) * nk / view.k; view.y = my - (my - view.y) * nk / view.k; view.k = nk; applyView(); }, {passive: false});
+const leaves = [];
+(function collect(n) { if (n.depth === 3) leaves.push(n); (n.children || []).forEach(collect); })(TREE);
+const norm = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const hits = document.getElementById("hits");
+document.getElementById("q").addEventListener("input", e => {
+  const q = norm(e.target.value.trim());
+  if (!q) { hits.style.display = "none"; return; }
+  const m = leaves.filter(l => norm(l.t).includes(q)).slice(0, 30);
+  hits.innerHTML = "";
+  for (const l of m) { const d = document.createElement("div"); d.innerHTML = ""; d.textContent = l.t; const s = document.createElement("small"); s.textContent = "  " + l.parent.name; d.appendChild(s); d.onclick = () => { state.open.add(l.parent.id); hits.style.display = "none"; select(l); focusOn(l); }; hits.appendChild(d); }
+  hits.style.display = m.length ? "block" : "none";
+});
+function focusOn(n) { const s = svg.getBoundingClientRect(); view.k = 1; view.x = s.width / 2 - n.x * view.k; view.y = s.height / 2 - n.y * view.k; applyView(); }
+render(); fit();
+addEventListener("resize", fit);
+</script>
+</body>
+</html>
