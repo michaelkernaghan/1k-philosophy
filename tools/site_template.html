@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>1,000 Philosophical Concepts</title>
+<style>
+:root{--bg:#faf8f4;--fg:#222;--muted:#6b665e;--card:#fff;--line:#e4dfd5;--accent:#7a3b2e;--chip:#efe9dd}
+@media (prefers-color-scheme:dark){:root{--bg:#18171a;--fg:#e8e4dc;--muted:#a09a8f;--card:#222126;--line:#34323a;--accent:#e0a48f;--chip:#2c2a31}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 Georgia,"Times New Roman",serif}
+header{padding:28px 16px 12px;max-width:900px;margin:0 auto}
+h1{margin:0 0 4px;font-size:1.7rem}
+.sub{color:var(--muted);margin:0 0 16px;font-size:.95rem}
+.bar{position:sticky;top:0;background:var(--bg);padding:10px 16px;border-bottom:1px solid var(--line);z-index:5}
+.bar-in{max-width:900px;margin:0 auto}
+input[type=search]{width:100%;padding:10px 12px;font:inherit;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg)}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.chip{border:1px solid var(--line);background:var(--chip);color:var(--fg);padding:4px 10px;border-radius:999px;font:.8rem system-ui,sans-serif;cursor:pointer}
+.chip[aria-pressed=true]{background:var(--accent);color:#fff;border-color:var(--accent)}
+.row{display:flex;gap:10px;align-items:center;margin-top:10px;font:.85rem system-ui,sans-serif;color:var(--muted);flex-wrap:wrap}
+select{font:inherit;padding:3px 6px;border-radius:6px;border:1px solid var(--line);background:var(--card);color:var(--fg)}
+main{max-width:900px;margin:0 auto;padding:12px 16px 60px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin:10px 0}
+.card:target{outline:2px solid var(--accent)}
+.card h2{margin:0 0 4px;font-size:1.05rem}
+.num{color:var(--muted);font:.8rem system-ui,sans-serif;margin-right:6px}
+.tag{float:right;font:.7rem system-ui,sans-serif;color:var(--muted)}
+.card p{margin:0}
+mark{background:#f4d58d;color:#222;border-radius:2px}
+.az{display:flex;flex-wrap:wrap;gap:4px;margin-top:8px}
+.az button{border:0;background:none;color:var(--accent);font:.85rem system-ui,sans-serif;cursor:pointer;padding:2px 5px}
+.empty{color:var(--muted);text-align:center;padding:40px 0}
+</style>
+</head>
+<body>
+<header>
+<h1>1,000 Philosophical Concepts</h1>
+<p class="sub">Indexed, ordered and summarized. Within each branch, concepts run from most to less central.</p>
+</header>
+<div class="bar"><div class="bar-in">
+<input id="q" type="search" placeholder="Search concepts and summaries" aria-label="Search">
+<div class="chips" id="chips"></div>
+<div class="row">
+<label>Order <select id="ord"><option value="branch">By branch</option><option value="az">A to Z</option></select></label>
+<span id="count"></span>
+</div>
+<div class="az" id="az" hidden></div>
+</div></div>
+<main id="list"></main>
+<script>
+const DATA = __DATA__;
+const BRANCHES = __BRANCHES__;
+const $ = id => document.getElementById(id);
+let branch = "all";
+const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const norm = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+function chip(key, label) {
+  const b = document.createElement("button");
+  b.className = "chip"; b.textContent = label; b.setAttribute("aria-pressed", key === branch);
+  b.onclick = () => { branch = key; render(); };
+  b.dataset.key = key;
+  $("chips").appendChild(b);
+}
+chip("all", "All");
+for (const k of Object.keys(BRANCHES)) chip(k, BRANCHES[k]);
+function hl(text, q) {
+  const e = esc(text);
+  if (!q) return e;
+  const i = norm(text).indexOf(q);
+  if (i < 0) return e;
+  return esc(text.slice(0, i)) + "<mark>" + esc(text.slice(i, i + q.length)) + "</mark>" + esc(text.slice(i + q.length));
+}
+function render() {
+  const q = norm($("q").value.trim());
+  const az = $("ord").value === "az";
+  document.querySelectorAll(".chip").forEach(c => c.setAttribute("aria-pressed", c.dataset.key === branch));
+  let rows = DATA.filter(d => (branch === "all" || d.b === branch) && (!q || norm(d.t).includes(q) || norm(d.s).includes(q)));
+  if (az) rows = rows.slice().sort((a, b) => norm(a.t).localeCompare(norm(b.t)));
+  $("count").textContent = rows.length + " of " + DATA.length + " concepts";
+  const azBox = $("az");
+  azBox.hidden = !az;
+  if (az) {
+    const letters = [...new Set(rows.map(r => norm(r.t)[0].toUpperCase()))];
+    azBox.innerHTML = letters.map(l => '<button data-l="' + l + '">' + l + "</button>").join("");
+    azBox.querySelectorAll("button").forEach(b => b.onclick = () => {
+      const t = document.querySelector('[data-first="' + b.dataset.l + '"]');
+      if (t) t.scrollIntoView({behavior: "smooth", block: "center"});
+    });
+  }
+  if (!rows.length) { $("list").innerHTML = '<div class="empty">No concepts match.</div>'; return; }
+  const seen = new Set();
+  $("list").innerHTML = rows.map(r => {
+    const l = norm(r.t)[0].toUpperCase();
+    const first = az && !seen.has(l) ? (seen.add(l), ' data-first="' + l + '"') : "";
+    return '<article class="card" id="c' + r.n + '"' + first + '><span class="tag">' + esc(BRANCHES[r.b]) + "</span><h2><span class=\"num\">" + r.n + "</span>" + hl(r.t, q) + "</h2><p>" + hl(r.s, q) + "</p></article>";
+  }).join("");
+}
+$("q").addEventListener("input", render);
+$("ord").addEventListener("change", render);
+render();
+if (location.hash) { const t = document.querySelector(location.hash); if (t) t.scrollIntoView(); }
+</script>
+</body>
+</html>
